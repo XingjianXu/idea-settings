@@ -7,18 +7,42 @@
     <keyboard-shortcut first-keystroke="ENTER" />
     <keyboard-shortcut first-keystroke="alt ENTER" />
   </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="DSM.OpenInEditor" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditSource" />
+  <action id="ExternalSystem.OpenConfig" />
   <action id="FileChooser.GotoHome" />
+  <action id="GotoBookmark1" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="F2" />
   </action>
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="Jdbc.OpenTableEditor" />
+  <action id="OpenModuleSettings" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
-  <action id="ShowIntentionActions" />
+  <action id="RemoteHostView.EditSource" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta R" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="F3" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="control 1" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
