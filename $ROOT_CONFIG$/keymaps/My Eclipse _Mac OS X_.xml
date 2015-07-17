@@ -40,6 +40,9 @@
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="F3" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta F" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta F11" />
     <keyboard-shortcut first-keystroke="meta R" />
