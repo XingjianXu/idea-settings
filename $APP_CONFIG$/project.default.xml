@@ -172,7 +172,7 @@
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.last.edited" value="Global Libraries" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.5045977" />
       </component>
@@ -268,7 +268,7 @@
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.2" />
+                    <option value="0.5045977" />
                   </list>
                 </option>
               </splitter-proportions>
