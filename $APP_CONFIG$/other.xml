@@ -67,6 +67,13 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/local/Cellar/python/2.7.10_1/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
     <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
