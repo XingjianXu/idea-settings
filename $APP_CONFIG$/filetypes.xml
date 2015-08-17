@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping pattern="Vamfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>
