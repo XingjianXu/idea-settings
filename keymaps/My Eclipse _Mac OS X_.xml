@@ -33,6 +33,7 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="RecentFiles" />
   <action id="RemoteHostView.EditSource" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift meta R" />
@@ -66,6 +67,13 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
+  <action id="TabSwitcherExtreme.NextTab">
+    <keyboard-shortcut first-keystroke="meta E" />
+  </action>
   <action id="ThePlugin.Bamboo.RunBuild" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
