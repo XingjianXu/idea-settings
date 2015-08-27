@@ -79,13 +79,13 @@
   </component>
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="http://cloud.big.ac.cn/youtrack">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <commitMessageFormat>{id} #fixed {summary}</commitMessageFormat>
       <option name="defaultSearch" value="project: Qomo Assignee: me or Assignee: Unassigned  sort by: updated #Unresolved" />
       <password>df9bdf93df92df92df92df98df9c</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
       <username>xingjian</username>
