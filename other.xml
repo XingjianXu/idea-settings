@@ -80,7 +80,7 @@
   <component name="RecentTaskRepositories">
     <YouTrack shared="true" url="http://cloud.big.ac.cn/youtrack">
       <commitMessageFormat>{id} fixed {summary}</commitMessageFormat>
-      <option name="defaultSearch" value="project: Qomo Assignee: me or Assignee: Unassigned  sort by: updated #Unresolved" />
+      <option name="defaultSearch" value="project: Qomo Assignee: me or Assignee: Unassigned  sort by:{ issue id } #Unresolved" />
       <password>df9bdf93df92df92df92df98df9c</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
