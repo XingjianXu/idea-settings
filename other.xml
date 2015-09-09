@@ -76,6 +76,11 @@
         <entry key="/usr/local/Cellar/python/2.7.10_1/bin/python" value="false" />
       </map>
     </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/usr/local/Cellar/python/2.7.10_1/bin/python" value="true" />
+      </map>
+    </option>
   </component>
   <component name="RecentTaskRepositories">
     <YouTrack shared="true" url="http://cloud.big.ac.cn/youtrack">
