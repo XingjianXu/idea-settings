@@ -20,13 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
@@ -44,10 +37,6 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -135,28 +124,10 @@
           <method />
         </configuration>
       </component>
-      <component name="SbtLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="/wrd/prj/cloudphylo" value="1444403615000" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
-      <component name="ScalaSbtSettings">
-        <option name="customLauncherEnabled" value="true" />
-        <option name="customLauncherPath" value="/usr/local/Cellar/sbt/0.13.9/libexec/sbt-launch.jar" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
