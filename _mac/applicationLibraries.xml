@@ -116,6 +116,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="bourbon (v4.2.6, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/bourbon-4.2.6/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/bourbon-4.2.6/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/bourbon-4.2.6/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/bourbon-4.2.6/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/bourbon-4.2.6/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/bourbon-4.2.6/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/bourbon-4.2.6/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/bourbon-4.2.6/features" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/builder-3.2.2/lib" />
@@ -269,6 +284,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/execjs-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="font-awesome-sass (v4.4.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/font-awesome-sass-4.4.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/font-awesome-sass-4.4.0/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/font-awesome-sass-4.4.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/font-awesome-sass-4.4.0/assets" />
       </SOURCES>
     </library>
     <library name="globalid (v0.3.6, rbenv: 2.2.3) [gem]">
