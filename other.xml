@@ -85,7 +85,7 @@
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="http://cloud.big.ac.cn/youtrack">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="defaultSearch" value=" project: qomo sort by: updated #Unresolved" />
+      <option name="defaultSearch" value=" project: qomo sort by: created desc #Unresolved" />
       <password>df9bdf93df92df92df92df98df9c</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
