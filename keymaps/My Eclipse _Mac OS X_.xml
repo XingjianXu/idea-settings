@@ -29,6 +29,12 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="Jdbc.OpenTableEditor" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="OpenModuleSettings" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
