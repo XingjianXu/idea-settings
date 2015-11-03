@@ -194,6 +194,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bundler-1.10.6/man" />
       </SOURCES>
     </library>
+    <library name="bunny (v2.2.1, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bunny-2.2.1/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bunny-2.2.1/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bunny-2.2.1/profiling" />
+        <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bunny-2.2.1/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bunny-2.2.1/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bunny-2.2.1/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bunny-2.2.1/profiling" />
+        <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bunny-2.2.1/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="byebug (v6.0.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/6.0.0" />
