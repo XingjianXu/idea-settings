@@ -3,5 +3,6 @@
     <option name="COMPILE_SERVER_PORT" value="51960" />
     <option name="COMPILE_SERVER_ID" value="3b95fa4c-5e38-4d97-847c-7c5b6adf6ec6" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss512m" />
   </component>
 </application>
