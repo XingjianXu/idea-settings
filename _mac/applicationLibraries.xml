@@ -63,6 +63,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/activesupport-4.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="algorithms (v0.6.1, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/algorithms/0.6.1" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/algorithms-0.6.1/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/algorithms-0.6.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/algorithms-0.6.1/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/algorithms/0.6.1" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/algorithms-0.6.1/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/algorithms-0.6.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/algorithms-0.6.1/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="arel (v6.0.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
@@ -249,6 +264,19 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/devise-3.5.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.25, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/domain_name-0.5.25/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/domain_name-0.5.25/data" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/domain_name-0.5.25/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/domain_name-0.5.25/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/domain_name-0.5.25/data" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/domain_name-0.5.25/tool" />
+      </SOURCES>
+    </library>
     <library name="dvm (v0.1.5, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/dvm-0.1.5/bin" />
@@ -317,6 +345,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gon-6.0.1/js" />
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gon-6.0.1/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gon-6.0.1/coffee" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.2, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/http-cookie-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, rbenv: 2.2.3) [gem]">
@@ -812,6 +849,15 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/uglifier-2.7.1/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/uglifier-2.7.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="unf (v0.1.4, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/unf-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="vam (v1.1.2, rbenv: 2.2.3) [gem]">
