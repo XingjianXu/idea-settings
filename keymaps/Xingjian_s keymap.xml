@@ -1,0 +1,6 @@
+<keymap version="1" name="Xingjian's keymap" parent="Eclipse (Mac OS X)">
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunToCursor" />
+</keymap>
