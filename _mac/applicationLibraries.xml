@@ -78,6 +78,21 @@
         <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/algorithms-0.6.1/benchmarks" />
       </SOURCES>
     </library>
+    <library name="amq-protocol (v2.0.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/amq-protocol-2.0.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/amq-protocol-2.0.0/codegen" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/amq-protocol-2.0.0/profiling" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/amq-protocol-2.0.0/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/amq-protocol-2.0.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/amq-protocol-2.0.0/codegen" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/amq-protocol-2.0.0/profiling" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/amq-protocol-2.0.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="arel (v6.0.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
