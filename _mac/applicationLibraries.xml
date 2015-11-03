@@ -675,6 +675,19 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="rbczmq (v1.7.9, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/rbczmq-1.7.9/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/rbczmq-1.7.9/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/rbczmq-1.7.9/perf" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/rbczmq-1.7.9/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/rbczmq-1.7.9/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/rbczmq-1.7.9/perf" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.2.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rdoc-4.2.0/bin" />
