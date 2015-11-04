@@ -2,13 +2,47 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="DSM.OpenInEditor" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditSource" />
+  <action id="ExternalSystem.OpenConfig" />
   <action id="FileChooser.GotoHome" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="Jdbc.OpenTableEditor" />
+  <action id="OpenModuleSettings" />
+  <action id="QuickChangeScheme" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="RemoteHostView.EditSource" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
-  <action id="ShowIntentionActions" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -23,5 +57,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
 </keymap>
