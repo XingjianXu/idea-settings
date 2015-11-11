@@ -778,6 +778,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rdoc-4.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="redcarpet (v3.3.3, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.3" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/redcarpet-3.3.3/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/redcarpet-3.3.3/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/redcarpet-3.3.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.3" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/redcarpet-3.3.3/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/redcarpet-3.3.3/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/redcarpet-3.3.3/lib" />
+      </SOURCES>
+    </library>
     <library name="request_store (v1.2.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/request_store-1.2.0/lib" />
