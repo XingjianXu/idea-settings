@@ -297,6 +297,19 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/colorize-0.7.7/lib" />
       </SOURCES>
     </library>
+    <library name="datagrid (v1.4.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/datagrid-1.4.0/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/datagrid-1.4.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/datagrid-1.4.0/templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/datagrid-1.4.0/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/datagrid-1.4.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/datagrid-1.4.0/templates" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
@@ -528,6 +541,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/tests" />
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/tools" />
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="kaminari (v0.16.3, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/config" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/config" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="ledermann-rails-settings (v2.4.0, rbenv: 2.2.3) [gem]">
@@ -1277,6 +1305,21 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/warden-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="wice_grid (v3.5.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/wice_grid-3.5.0/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/wice_grid-3.5.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/wice_grid-3.5.0/vendor" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/wice_grid-3.5.0/release_notes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/wice_grid-3.5.0/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/wice_grid-3.5.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/wice_grid-3.5.0/vendor" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/wice_grid-3.5.0/release_notes" />
       </SOURCES>
     </library>
   </component>
