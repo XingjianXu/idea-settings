@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="16">
-    <ignoreFiles list="*.hprof;*.iml;*.ipr;*.iws;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.gradle;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;build;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.ids;*.iml;*.ipr;*.iws;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.gradle;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;build;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="fa" type="PLAIN_TEXT" />
