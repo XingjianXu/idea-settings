@@ -17,12 +17,16 @@
   <action id="EditSource" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="FileChooser.GotoHome" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="GuiDesigner.GoToListener" />
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
