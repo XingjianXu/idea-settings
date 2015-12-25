@@ -217,6 +217,20 @@
   <component name="ImportFilteringUsageViewSetting">
     <option name="SHOW_IMPORTS" value="false" />
   </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="http://cloud.big.ac.cn/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value=" project: qomo sort by: created desc #Unresolved " />
+      <password>df9bdf93df92df92df92df98df9c</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>xingjian</username>
+    </YouTrack>
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
