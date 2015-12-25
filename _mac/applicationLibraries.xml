@@ -1241,6 +1241,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/polyamorous-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="posix-spawn (v0.3.11, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/posix-spawn/0.3.11" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/posix-spawn-0.3.11/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/posix-spawn-0.3.11/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/posix-spawn-0.3.11/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/posix-spawn/0.3.11" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/posix-spawn-0.3.11/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/posix-spawn-0.3.11/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/posix-spawn-0.3.11/lib" />
+      </SOURCES>
+    </library>
     <library name="pry (v0.10.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pry-0.10.1/bin" />
