@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="gff3" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="gff" type="PLAIN_TEXT" />
