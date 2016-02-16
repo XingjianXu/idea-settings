@@ -1,7 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="console.debug" value="console.debug " description="console.debug" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="CoffeeScript" value="true" />
-    </context>
-  </template>
-</templateSet>
