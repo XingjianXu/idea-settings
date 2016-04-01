@@ -164,9 +164,6 @@
     <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
   </component>
-  <component name="ImportFilteringUsageViewSetting">
-    <option name="SHOW_IMPORTS" value="false" />
-  </component>
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="http://cloud.big.ac.cn/youtrack">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
