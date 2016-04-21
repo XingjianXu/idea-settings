@@ -1153,6 +1153,19 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/capistrano-rails-1.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="chunky_png (v1.3.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/chunky_png-1.3.5/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/chunky_png-1.3.5/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/chunky_png-1.3.5/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/chunky_png-1.3.5/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/chunky_png-1.3.5/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/chunky_png-1.3.5/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/coderay-1.1.0/bin" />
@@ -1565,6 +1578,21 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/execjs-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.10, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/gen" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/libtest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/gen" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/libtest" />
       </SOURCES>
     </library>
     <library name="font-awesome-sass (v4.3.2.1, rbenv: 2.2.3) [gem]">
@@ -3294,6 +3322,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ratyrate-1.2.2.alpha/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.7, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rb-inotify-0.9.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rb-inotify-0.9.7/lib" />
       </SOURCES>
     </library>
     <library name="rbczmq (v1.7.9, rbenv: 2.2.3) [gem]">
