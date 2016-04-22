@@ -1320,6 +1320,43 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/columnize-0.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="compass (v1.0.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-1.0.3/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-1.0.3/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-1.0.3/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-1.0.3/features" />
+      </SOURCES>
+    </library>
+    <library name="compass-core (v1.0.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/data" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/templates" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/data" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/templates" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets" />
+      </SOURCES>
+    </library>
+    <library name="compass-import-once (v1.0.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-import-once-1.0.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/compass-import-once-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/concurrent-ruby-1.0.0/lib" />
@@ -3324,6 +3361,19 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ratyrate-1.2.2.alpha/lib" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.9.7, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-inotify (v0.9.7, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rb-inotify-0.9.7/lib" />
@@ -3643,6 +3693,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rucaptcha-0.4.0/app" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rucaptcha-0.4.0/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rucaptcha-0.4.0/config" />
+      </SOURCES>
+    </library>
+    <library name="rvt (v0.9.9, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rvt-0.9.9/app" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rvt-0.9.9/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rvt-0.9.9/config" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rvt-0.9.9/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rvt-0.9.9/app" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rvt-0.9.9/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rvt-0.9.9/config" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rvt-0.9.9/vendor" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.14, rbenv: 2.2.3) [gem]">
