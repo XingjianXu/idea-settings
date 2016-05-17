@@ -1749,6 +1749,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gon-6.0.1/coffee" />
       </SOURCES>
     </library>
+    <library name="gravatar_image_tag (v1.2.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/gravatar_image_tag-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/gravatar_image_tag-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="groovy-2.4.5">
       <CLASSES>
         <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/ant-1.9.4.jar!/" />
