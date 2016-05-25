@@ -3342,6 +3342,28 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-5.0.0.rc1" />
       </SOURCES>
     </library>
+    <library name="rails-assets-jquery (v2.2.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-assets-jquery-2.2.4/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-assets-jquery-2.2.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-assets-jquery-2.2.4/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-assets-jquery-2.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-assets-semantic-ui (v2.1.8, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-assets-semantic-ui-2.1.8/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-assets-semantic-ui-2.1.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-assets-semantic-ui-2.1.8/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rails-assets-semantic-ui-2.1.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
@@ -4186,6 +4208,19 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/slim-3.0.6/benchmarks" />
       </SOURCES>
     </library>
+    <library name="slim (v3.0.7, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/slim-3.0.7/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/slim-3.0.7/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/slim-3.0.7/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/slim-3.0.7/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/slim-3.0.7/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/slim-3.0.7/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="slim-rails (v3.0.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slim-rails-3.0.1/lib" />
@@ -4542,6 +4577,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/temple-0.7.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.7.7, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/temple-0.7.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/temple-0.7.7/lib" />
       </SOURCES>
     </library>
     <library name="the_sortable_tree (v2.5.0, rbenv: 2.2.3) [gem]">
