@@ -513,6 +513,19 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/activesupport-5.0.0.rc1/lib" />
       </SOURCES>
     </library>
+    <library name="acts-as-taggable-on (v3.5.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts-as-taggable-on-3.5.0/db" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts-as-taggable-on-3.5.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts-as-taggable-on-3.5.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts-as-taggable-on-3.5.0/db" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts-as-taggable-on-3.5.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts-as-taggable-on-3.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="acts_as_votable (v0.10.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts_as_votable-0.10.0/lib" />
