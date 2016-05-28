@@ -817,6 +817,23 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.4.3.0001/gemfiles" />
       </SOURCES>
     </library>
+    <library name="bio (v1.5.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/etc" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/sample" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/etc" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/sample" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-1.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="bio-blastxmlparser (v2.0.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bio-blastxmlparser-2.0.3/bin" />
@@ -2669,6 +2686,19 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.4.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/ext" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/ext" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/support" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/net-scp-1.2.1/lib" />
@@ -3933,6 +3963,15 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rolify-5.1.0/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rolify-5.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
     <library name="rucaptcha (v0.3.2, rbenv: 2.2.3) [gem]">
