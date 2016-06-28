@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="outfile" type="PLAIN_TEXT" />
       <mapping pattern="infile" type="PLAIN_TEXT" />
+      <mapping pattern="outtree" type="PLAIN_TEXT" />
       <mapping pattern=".asscache" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
