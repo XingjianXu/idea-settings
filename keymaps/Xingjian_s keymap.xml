@@ -2,6 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="Arrangement.Rule.Edit" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta b" />
     <keyboard-shortcut first-keystroke="f5" />
@@ -27,9 +28,7 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="GotoFile" />
   <action id="GuiDesigner.GoToListener" />
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -51,6 +50,9 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
@@ -74,4 +76,6 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
