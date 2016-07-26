@@ -102,9 +102,6 @@
       </profile-state>
     </entry>
   </component>
-  <component name="CPPToolchains">
-    <option name="detectedVersion" value="4" />
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>

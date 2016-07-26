@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="cd" value="console.debug " toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="CoffeeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
