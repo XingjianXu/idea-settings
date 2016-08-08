@@ -12,6 +12,7 @@
       <mapping ext="gff3" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="gff" type="PLAIN_TEXT" />
       <mapping ext="fa" type="PLAIN_TEXT" />
     </extensionMap>
