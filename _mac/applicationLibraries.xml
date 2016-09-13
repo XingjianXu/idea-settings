@@ -2342,52 +2342,6 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/gravatar_image_tag-1.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="groovy-2.4.5">
-      <CLASSES>
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/ant-1.9.4.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/ant-antlr-1.9.4.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/ant-junit-1.9.4.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/ant-launcher-1.9.4.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/bsf-2.4.0.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/commons-cli-1.2.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/commons-logging-1.2.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/gpars-1.2.1.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-ant-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-bsf-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-console-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-docgenerator-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-groovydoc-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-groovysh-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-jmx-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-json-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-jsr223-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-nio-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-servlet-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-sql-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-swing-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-templates-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-test-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-testng-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/groovy-xml-2.4.5.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/hamcrest-core-1.3.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/ivy-2.4.0.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/jansi-1.11.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/jcommander-1.47.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/jline-2.12.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/jsp-api-2.0.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/jsr166y-1.7.0.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/junit-4.12.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/multiverse-core-0.7.0.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/qdox-1.12.1.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/servlet-api-2.4.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/testng-6.8.13.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/xmlpull-1.1.3.1.jar!/" />
-        <root url="jar:///usr/local/Cellar/groovy/2.4.5/libexec/lib/xstream-1.4.7.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="http-cookie (v1.0.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/http-cookie-1.0.2/lib" />
@@ -4983,15 +4937,7 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/sass-rails-5.0.6/lib" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.10.4" type="Scala">
-      <properties>
-        <option name="languageLevel" value="Scala_2_10" />
-        <compiler-classpath>
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.10.4.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.10.4">
       <CLASSES>
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar!/" />
