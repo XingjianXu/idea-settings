@@ -1972,6 +1972,17 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/devise-4.2.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="docker-api (v1.31.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/docker-api-1.31.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/docker-api-1.31.0/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/docker-api-1.31.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/docker-api-1.31.0/script" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20160310, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/domain_name-0.5.20160310/lib" />
@@ -2100,6 +2111,21 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/escape-0.0.4/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/escape-0.0.4/doc_include" />
+      </SOURCES>
+    </library>
+    <library name="excon (v0.52.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/excon-0.52.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/excon-0.52.0/data" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/excon-0.52.0/tests" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/excon-0.52.0/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/excon-0.52.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/excon-0.52.0/data" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/excon-0.52.0/tests" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/excon-0.52.0/benchmarks" />
       </SOURCES>
     </library>
     <library name="execjs (v2.5.2, rbenv: 2.2.3) [gem]">
