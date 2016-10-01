@@ -3,5 +3,6 @@
     <ignoreAction name="Java/Annotations/Add Annotation" />
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
     <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="XML/Collapse empty tag" />
   </component>
 </application>
