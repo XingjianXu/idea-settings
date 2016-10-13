@@ -2313,6 +2313,17 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/fourflusher-0.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="friendly_id (v5.1.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/friendly_id-5.1.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/friendly_id-5.1.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/friendly_id-5.1.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/friendly_id-5.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fuzzy_match (v2.0.4, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/fuzzy_match-2.0.4/bin" />
