@@ -1860,6 +1860,35 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="countries (v1.2.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/countries-1.2.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/countries-1.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="country_select (v2.5.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/country_select-2.5.2/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/country_select-2.5.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/country_select-2.5.2/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/country_select-2.5.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="currencies (v0.4.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/currencies-0.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/currencies-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="dalli (v2.7.4, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/dalli-2.7.4/lib" />
@@ -2490,6 +2519,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/i18n-0.7.0/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n_data (v0.7.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/i18n_data-0.7.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/i18n_data-0.7.0/cache" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/i18n_data-0.7.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/i18n_data-0.7.0/cache" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.2.16, rbenv: 2.2.3) [gem]">
@@ -5228,6 +5268,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="sort_alphabetical (v1.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/sort_alphabetical-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/sort_alphabetical-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="SparkLib">
       <CLASSES>
         <root url="file:///opt/mapr/lib" />
@@ -5949,6 +5998,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode_utils (v1.4.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/unicode_utils-1.4.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/unicode_utils-1.4.0/cdata" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/unicode_utils-1.4.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/unicode_utils-1.4.0/cdata" />
       </SOURCES>
     </library>
     <library name="uniform_notifier (v1.9.0, rbenv: 2.2.3) [gem]">
