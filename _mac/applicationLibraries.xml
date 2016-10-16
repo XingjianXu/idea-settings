@@ -5277,6 +5277,17 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="social-share-button (v0.8.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/social-share-button-0.8.0/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/social-share-button-0.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/social-share-button-0.8.0/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/social-share-button-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sort_alphabetical (v1.0.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/sort_alphabetical-1.0.2/lib" />
