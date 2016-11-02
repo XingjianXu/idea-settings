@@ -4866,6 +4866,53 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-3.3.1/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis-actionpack (v5.0.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-actionpack-5.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-actionpack-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-activesupport (v5.0.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-activesupport-5.0.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-activesupport-5.0.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-activesupport-5.0.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-activesupport-5.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="redis-rack (v2.0.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-rack-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-rack-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-rails (v5.0.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-rails-5.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-rails-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-store (v1.2.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-store-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/redis-store-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="regexp_parser (v0.3.6, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/regexp_parser-0.3.6/lib" />
