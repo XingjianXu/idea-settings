@@ -1592,6 +1592,21 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/client_side_validations-3.2.8/vendor" />
       </SOURCES>
     </library>
+    <library name="client_side_validations (v5.0.0@1715d0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-1715d0b71311/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-1715d0b71311/vendor" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-1715d0b71311/gemfiles" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-1715d0b71311/coffeescript" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-1715d0b71311/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-1715d0b71311/vendor" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-1715d0b71311/gemfiles" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-1715d0b71311/coffeescript" />
+      </SOURCES>
+    </library>
     <library name="client_side_validations (v5.0.0@186c61, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/client_side_validations-186c61e8546d/lib" />

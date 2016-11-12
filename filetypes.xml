@@ -15,6 +15,7 @@
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="gff" type="PLAIN_TEXT" />
       <mapping ext="fa" type="PLAIN_TEXT" />
+      <mapping pattern="Vamfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>
