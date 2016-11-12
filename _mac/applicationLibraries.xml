@@ -683,6 +683,19 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts_as_votable-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/data" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/data" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="algorithms (v0.6.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/algorithms/0.6.1" />
@@ -3057,6 +3070,19 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/kaminari-0.17.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="launchy (v2.4.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/bin" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
     <library name="lazy_priority_queue (v0.1.1, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/lazy_priority_queue-0.1.1/lib" />
@@ -3108,6 +3134,15 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ledermann-rails-settings-2.4.2/ci" />
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ledermann-rails-settings-2.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="letter_opener (v1.4.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/letter_opener-1.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/letter_opener-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="listen (v3.0.8, rbenv: 2.3.0) [gem]">
@@ -4091,6 +4126,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-rails-0.3.4/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-rails-0.3.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v2.0.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/public_suffix-2.0.4/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/public_suffix-2.0.4/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/public_suffix-2.0.4/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/public_suffix-2.0.4/data" />
       </SOURCES>
     </library>
     <library name="pubmed_search (v0.4.0, rbenv: 2.3.0) [gem]">
