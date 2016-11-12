@@ -1202,6 +1202,17 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bullet-4.14.7/tasks" />
       </SOURCES>
     </library>
+    <library name="bulma-rails (v0.2.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/bulma-rails-0.2.3/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/bulma-rails-0.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/bulma-rails-0.2.3/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/bulma-rails-0.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="bundle (v0.0.1, rbenv: 2.3.0) [gem]">
       <CLASSES />
       <JAVADOC />
