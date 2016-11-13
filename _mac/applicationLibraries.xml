@@ -5312,6 +5312,17 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="rubycas-client (v2.3.9, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rubycas-client-2.3.9/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rubycas-client-2.3.9/rails_generators" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rubycas-client-2.3.9/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rubycas-client-2.3.9/rails_generators" />
+      </SOURCES>
+    </library>
     <library name="rubyzip (v1.2.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.0/lib" />
