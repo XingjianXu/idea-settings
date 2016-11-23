@@ -648,6 +648,17 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/activesupport-5.0.0.rc1/lib" />
       </SOURCES>
     </library>
+    <library name="activeuuid (v0.6.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/activeuuid-0.6.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/activeuuid-0.6.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/activeuuid-0.6.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/activeuuid-0.6.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="acts-as-taggable-on (v3.5.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/acts-as-taggable-on-3.5.0/db" />
@@ -6664,6 +6675,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/uniform_notifier-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uuidtools (v2.1.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/uuidtools-2.1.5/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/uuidtools-2.1.5/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/uuidtools-2.1.5/website" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/uuidtools-2.1.5/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/uuidtools-2.1.5/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/uuidtools-2.1.5/website" />
       </SOURCES>
     </library>
     <library name="vam (v1.1.2, rbenv: 2.2.3) [gem]">
