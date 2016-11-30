@@ -4329,6 +4329,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.10.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/faraday-0.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/faraday-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.10, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.10/ext" />
@@ -4391,6 +4400,15 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.14/gen" />
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.14/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ffi-1.9.14/libtest" />
+      </SOURCES>
+    </library>
+    <library name="filetree (v1.0.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/filetree-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/filetree-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="flamegraph (v0.9.5, rbenv: 2.2.3 (1)) [gem]">
@@ -5131,6 +5149,26 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/jquery-rails-4.2.1/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/jquery-rails-4.2.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jruby-jars (v1.7.26, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jruby-jars-1.7.26/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jruby-jars-1.7.26/lib" />
+      </SOURCES>
+    </library>
+    <library name="jruby-parser (v0.5.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jruby-parser-0.5.4/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jruby-parser-0.5.4/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jruby-parser-0.5.4/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jruby-parser-0.5.4/sample" />
       </SOURCES>
     </library>
     <library name="js-routes (v1.1.0, rbenv: 2.2.3 (1)) [gem]">
@@ -6397,6 +6435,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="mysql2 (v0.4.4, rbenv: 2.2.3 (1)) [gem]">
@@ -7749,6 +7805,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-mini-profiler-0.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.3, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rack-protection-1.5.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rack-protection-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rack-protection-1.5.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rack-protection-1.5.3/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, rbenv: 2.2.3 (1)) [gem]">
@@ -9290,6 +9364,88 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rolify-5.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="rsense (v0.5.18, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-0.5.18/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-0.5.18/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-0.5.18/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-0.5.18/lib" />
+      </SOURCES>
+    </library>
+    <library name="rsense (v0.5.18, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-0.5.18/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-0.5.18/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-0.5.18/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-0.5.18/lib" />
+      </SOURCES>
+    </library>
+    <library name="rsense-core (v0.6.6, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/src" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/stubs" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/build_lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/src" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/stubs" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/build_lib" />
+      </SOURCES>
+    </library>
+    <library name="rsense-core (v0.6.6, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/src" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/stubs" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/build_lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/src" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/stubs" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-core-0.6.6/build_lib" />
+      </SOURCES>
+    </library>
+    <library name="rsense-server (v0.5.18, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/config" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/config" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/vendor" />
+      </SOURCES>
+    </library>
+    <library name="rsense-server (v0.5.18, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/config" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/config" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/rsense-server-0.5.18/vendor" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
@@ -10001,6 +10157,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/simple_captcha2-0.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="sinatra (v1.4.7, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sinatra-1.4.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sinatra-1.4.7/lib" />
+      </SOURCES>
+    </library>
     <library name="slim (v3.0.6, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/slim-3.0.6/bin" />
@@ -10243,6 +10408,24 @@
       <jarDirectory url="file:///opt/mapr/spark/spark-1.6.1/lib" recursive="false" />
       <jarDirectory url="file:///opt/mapr/lib" recursive="false" type="SOURCES" />
       <jarDirectory url="file:///opt/mapr/spark/spark-1.6.1/lib" recursive="false" type="SOURCES" />
+    </library>
+    <library name="spoon (v0.0.6, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spoon-0.0.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spoon-0.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="spoon (v0.0.6, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spoon-0.0.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spoon-0.0.6/lib" />
+      </SOURCES>
     </library>
     <library name="spring (v1.3.6, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
