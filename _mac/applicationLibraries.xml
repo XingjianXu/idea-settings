@@ -10112,6 +10112,24 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/sdoc-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="seed-fu (v2.3.6, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/seed-fu-2.3.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/seed-fu-2.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="seed-fu (v2.3.6, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/seed-fu-2.3.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/seed-fu-2.3.6/lib" />
+      </SOURCES>
+    </library>
     <library name="settingslogic (v2.0.9, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/settingslogic-2.0.9/lib" />
