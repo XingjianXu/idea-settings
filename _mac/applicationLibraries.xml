@@ -3452,6 +3452,24 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/columnize-0.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="commonjs (v0.2.7, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/commonjs-0.2.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/commonjs-0.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="commonjs (v0.2.7, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/commonjs-0.2.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/commonjs-0.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="compass (v1.0.3, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/compass-1.0.3/bin" />
@@ -5695,6 +5713,50 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ledermann-rails-settings-2.4.2/ci" />
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ledermann-rails-settings-2.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="less (v2.6.0, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-2.6.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-2.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-2.6.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="less (v2.6.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-2.6.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-2.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-2.6.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="less-rails (v2.8.0, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-rails-2.8.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-rails-2.8.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-rails-2.8.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-rails-2.8.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="less-rails (v2.8.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-rails-2.8.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-rails-2.8.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-rails-2.8.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/less-rails-2.8.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="letter_opener (v1.4.1, rbenv: 2.2.3 (1)) [gem]">
@@ -11613,6 +11675,32 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/turnout-2.4.0/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/turnout-2.4.0/public" />
+      </SOURCES>
+    </library>
+    <library name="twitter-bootstrap-rails (v3.2.2, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/vendor" />
+      </SOURCES>
+    </library>
+    <library name="twitter-bootstrap-rails (v3.2.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/app" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/app" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/lib" />
+        <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/twitter-bootstrap-rails-3.2.2/vendor" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, rbenv: 2.2.3 (1)) [gem]">
