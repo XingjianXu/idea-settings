@@ -10130,6 +10130,36 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/seed-fu-2.3.6/lib" />
       </SOURCES>
     </library>
+    <library name="semantic-ui-sass (v2.2.6.0@b51eed, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/templates" />
+      </SOURCES>
+    </library>
+    <library name="semantic-ui-sass (v2.2.6.0@b51eed, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/templates" />
+      </SOURCES>
+    </library>
     <library name="settingslogic (v2.0.9, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/settingslogic-2.0.9/lib" />
