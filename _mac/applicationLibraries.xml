@@ -10274,6 +10274,28 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/bundler/gems/semantic-ui-sass-b51eed21bcdf/templates" />
       </SOURCES>
     </library>
+    <library name="serrano (v0.3.0, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/serrano-0.3.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/serrano-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/serrano-0.3.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/serrano-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="serrano (v0.3.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/serrano-0.3.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/serrano-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/serrano-0.3.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/serrano-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="settingslogic (v2.0.9, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/settingslogic-2.0.9/lib" />
