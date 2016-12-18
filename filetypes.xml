@@ -16,6 +16,7 @@
       <mapping ext="gff" type="PLAIN_TEXT" />
       <mapping ext="fa" type="PLAIN_TEXT" />
       <mapping pattern="Vamfile" type="Ruby" />
+      <mapping pattern="dvm" type="Ruby" />
     </extensionMap>
   </component>
 </application>
