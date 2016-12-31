@@ -10476,6 +10476,28 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta2/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-ole (v1.2.12, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-ole-1.2.12/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-ole-1.2.12/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-ole-1.2.12/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-ole-1.2.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-ole (v1.2.12, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-ole-1.2.12/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-ole-1.2.12/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-ole-1.2.12/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-ole-1.2.12/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.8.1, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
@@ -11572,6 +11594,28 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spoon-0.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.1.4, rbenv: 2.2.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spreadsheet-1.1.4/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spreadsheet-1.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spreadsheet-1.1.4/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spreadsheet-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.1.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spreadsheet-1.1.4/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spreadsheet-1.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spreadsheet-1.1.4/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/spreadsheet-1.1.4/lib" />
       </SOURCES>
     </library>
     <library name="spring (v1.3.6, rbenv: 2.2.3 (1)) [gem]">
