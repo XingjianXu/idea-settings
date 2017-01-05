@@ -11190,6 +11190,17 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/seed-fu-2.3.6/lib" />
       </SOURCES>
     </library>
+    <library name="select2-rails (v4.0.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/select2-rails-4.0.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/select2-rails-4.0.3/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/select2-rails-4.0.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/select2-rails-4.0.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="semantic-ui-sass (v2.2.6.0, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/semantic-ui-sass-2.2.6.0/app" />
