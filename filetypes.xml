@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.ids;*.iml;*.ipr;*.iws;*.pid;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.gradle;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;build;out;rcs;tmp;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="webpack-dashboard" type="PLAIN_TEXT" />
       <mapping pattern="outfile" type="PLAIN_TEXT" />
       <mapping pattern="outtree" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
