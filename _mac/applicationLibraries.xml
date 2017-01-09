@@ -576,6 +576,15 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/activemodel-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-serializers-xml (v1.0.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/activemodel-serializers-xml-1.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/activemodel-serializers-xml-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v4.2.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activerecord-4.2.0/lib" />
@@ -2865,6 +2874,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.25/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.25/data" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.25/tool" />
+      </SOURCES>
+    </library>
+    <library name="draper (v3.0.0.pre1@45e185, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/bundler/gems/draper-45e18569d963/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/bundler/gems/draper-45e18569d963/lib" />
       </SOURCES>
     </library>
     <library name="dvm (v0.1.5, rbenv: 2.2.3) [gem]">
