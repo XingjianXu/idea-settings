@@ -4086,6 +4086,50 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-0.17.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kaminari (v1.0.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.0/misc" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.0/misc" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-actionview (v1.0.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-actionview-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-actionview-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.0.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-activerecord-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-activerecord-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.0.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/config" />
+      </SOURCES>
+    </library>
     <library name="launchy (v2.4.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/bin" />
@@ -4225,6 +4269,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/listen-3.0.8/bin" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/listen-3.0.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.1.5, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/listen-3.1.5/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/listen-3.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/listen-3.1.5/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/listen-3.1.5/lib" />
       </SOURCES>
     </library>
     <library name="log4r (v1.1.10, rbenv: 2.3.0) [gem]">
@@ -7117,6 +7172,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_dep (v1.5.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ruby_dep-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ruby_dep-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rubycas-client (v2.3.9, rbenv: 2.3.0) [gem]">
