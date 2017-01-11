@@ -4552,6 +4552,23 @@
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/mimemagic-0.3.2/script" />
       </SOURCES>
     </library>
+    <library name="mina (v1.0.6, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/data" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/test_env" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/data" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/tasks" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mina-1.0.6/test_env" />
+      </SOURCES>
+    </library>
     <library name="mini_portile (v0.6.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mini_portile-0.6.2/lib" />
@@ -5266,6 +5283,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.3.0/gems/ntlm-http-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="open4 (v1.3.4, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/open4-1.3.4/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/open4-1.3.4/samples" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/open4-1.3.4/white_box" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/open4-1.3.4/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/open4-1.3.4/samples" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/open4-1.3.4/white_box" />
       </SOURCES>
     </library>
     <library name="orm_adapter (v0.5.0, rbenv: 2.2.3) [gem]">
