@@ -5219,6 +5219,7 @@
     </library>
     <library name="nokogiri (v1.7.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/nokogiri-1.7.0/bin" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/nokogiri-1.7.0/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/nokogiri-1.7.0/lib" />
@@ -5228,6 +5229,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/nokogiri-1.7.0/bin" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/nokogiri-1.7.0/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/nokogiri-1.7.0/lib" />
