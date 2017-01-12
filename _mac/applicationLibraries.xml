@@ -4221,6 +4221,19 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/letter_opener-1.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="libv8-3.16.14.17-x86_64-darwin (v3.16.14.17, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/libv8-3.16.14.17-x86_64-darwin-15/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/libv8-3.16.14.17-x86_64-darwin-15/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/libv8-3.16.14.17-x86_64-darwin-15/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/libv8-3.16.14.17-x86_64-darwin-15/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/libv8-3.16.14.17-x86_64-darwin-15/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/libv8-3.16.14.17-x86_64-darwin-15/vendor" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.0.8, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/listen-3.0.8/bin" />
@@ -6800,6 +6813,17 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/redis-store-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="ref (v2.0.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ref-2.0.0/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ref-2.0.0/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ref-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="regexp_parser (v0.3.6, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/regexp_parser-0.3.6/lib" />
@@ -8437,6 +8461,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/the_sortable_tree-2.5.0/app" />
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/the_sortable_tree-2.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.12.3, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/therubyracer-0.12.3/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/therubyracer-0.12.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/therubyracer-0.12.3/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, rbenv: 2.2.3) [gem]">
