@@ -10,6 +10,7 @@
       <mapping pattern=".asscache" type="PLAIN_TEXT" />
       <mapping pattern="SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="infile" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gff3" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
