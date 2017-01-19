@@ -16,6 +16,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="gff" type="PLAIN_TEXT" />
+      <mapping ext="newick" type="PLAIN_TEXT" />
       <mapping ext="fa" type="PLAIN_TEXT" />
       <mapping pattern="dvm" type="Ruby" />
       <mapping pattern="deptao" type="Ruby" />
