@@ -3296,6 +3296,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/fourflusher-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="fpdf (v1.53, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/fpdf-1.53/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/fpdf-1.53/lib" />
+      </SOURCES>
+    </library>
     <library name="friendly_id (v5.1.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/friendly_id-5.1.0/lib" />
@@ -5085,6 +5094,19 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/netrc-0.7.8/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/netrc-0.7.8/data" />
+      </SOURCES>
+    </library>
+    <library name="newick-ruby (v1.0.4, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/newick-ruby-1.0.4/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/newick-ruby-1.0.4/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/newick-ruby-1.0.4/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/newick-ruby-1.0.4/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/newick-ruby-1.0.4/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/newick-ruby-1.0.4/example" />
       </SOURCES>
     </library>
     <library name="nio4r (v1.2.1, rbenv: 2.3.0) [gem]">
