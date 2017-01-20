@@ -5409,6 +5409,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="pandoc-ruby (v2.0.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/pandoc-ruby-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/pandoc-ruby-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="paperclip (v5.1.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/paperclip-5.1.0/lib" />
