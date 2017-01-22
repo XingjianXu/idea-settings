@@ -1040,6 +1040,15 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/arel-7.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.3.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="autoprefixer-rails (v6.5.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-6.5.3/lib" />
@@ -5433,6 +5442,17 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/paperclip-5.1.0/shoulda_macros" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.3.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/parser-2.3.3.1/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/parser-2.3.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/parser-2.3.3.1/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/parser-2.3.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.18.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.18.2" />
@@ -5579,6 +5599,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/posix-spawn-0.3.11/bin" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/posix-spawn-0.3.11/ext" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/posix-spawn-0.3.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.1, rbenv: 2.2.3) [gem]">
@@ -6465,6 +6494,17 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/railties-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v2.2.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rainbow-2.2.1/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rainbow-2.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rainbow-2.2.1/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rainbow-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rake-10.4.2/bin" />
@@ -7158,6 +7198,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rsense-server-0.5.18/vendor" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.47.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rubocop-0.47.1/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rubocop-0.47.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rubocop-0.47.1/assets" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rubocop-0.47.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rubocop-0.47.1/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rubocop-0.47.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rubocop-0.47.1/assets" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rubocop-0.47.1/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
@@ -7200,6 +7255,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby_dep (v1.5.0, rbenv: 2.4.0) [gem]">
@@ -9005,6 +9069,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/unf_ext-0.0.7.2/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/unf_ext-0.0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.1.3, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/unicode-display_width-1.1.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/unicode-display_width-1.1.3/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/unicode-display_width-1.1.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/unicode-display_width-1.1.3/data" />
       </SOURCES>
     </library>
     <library name="unicode_utils (v1.4.0, rbenv: 2.3.0) [gem]">
