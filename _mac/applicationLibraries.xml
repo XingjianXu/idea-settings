@@ -860,6 +860,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/acts_as_votable-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="acts_as_votable (v0.10.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/acts_as_votable-0.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/acts_as_votable-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.5.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/lib" />
@@ -1091,6 +1100,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/autoprefixer-rails-6.6.1/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/autoprefixer-rails-6.6.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="autoprefixer-rails (v6.7.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/autoprefixer-rails-6.7.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/autoprefixer-rails-6.7.0/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/autoprefixer-rails-6.7.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/autoprefixer-rails-6.7.0/vendor" />
       </SOURCES>
     </library>
     <library name="awesome_nested_set (v3.0.2, rbenv: 2.2.3) [gem]">
@@ -1515,6 +1535,17 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="builder (v3.2.3, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/builder-3.2.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/builder-3.2.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+    </library>
     <library name="bullet (v4.14.7, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bullet-4.14.7/lib" />
@@ -1897,6 +1928,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/cancancan-1.15.0/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/cancancan-1.15.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="cancancan (v1.15.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/cancancan-1.15.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/cancancan-1.15.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/cancancan-1.15.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/cancancan-1.15.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="capistrano (v3.4.0, rbenv: 2.2.3) [gem]">
@@ -2365,6 +2407,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/coffee-script-source-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-script-source (v1.10.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/coffee-script-source-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/coffee-script-source-1.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script-source (v1.12.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/coffee-script-source-1.12.2/lib" />
@@ -2537,6 +2588,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.2, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/concurrent-ruby-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/concurrent-ruby-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.3/lib" />
@@ -2602,6 +2662,17 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/countries-2.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="countries (v2.0.6, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/countries-2.0.6/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/countries-2.0.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/countries-2.0.6/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/countries-2.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="country_select (v2.5.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/country_select-2.5.2/lib" />
@@ -2613,6 +2684,17 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/country_select-2.5.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="country_select (v3.0.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/country_select-3.0.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/country_select-3.0.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/country_select-3.0.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/country_select-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="currencies (v0.4.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/currencies-0.4.2/lib" />
@@ -2620,6 +2702,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/currencies-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="currencies (v0.4.2, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/currencies-0.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/currencies-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="dalli (v2.7.4, rbenv: 2.2.3) [gem]">
@@ -2929,6 +3020,17 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/dvm-0.1.7/lib" />
       </SOURCES>
     </library>
+    <library name="dvm (v0.1.7, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/dvm-0.1.7/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/dvm-0.1.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/dvm-0.1.7/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/dvm-0.1.7/lib" />
+      </SOURCES>
+    </library>
     <library name="email_validator (v1.6.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/email_validator-1.6.0/lib" />
@@ -3173,6 +3275,23 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.14/gen" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.14/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.14/libtest" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.17, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.17" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/gen" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/libtest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.17" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/gen" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/libtest" />
       </SOURCES>
     </library>
     <library name="filetree (v1.0.0, rbenv: 2.3.0) [gem]">
@@ -4016,6 +4135,31 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.2/references" />
       </SOURCES>
     </library>
+    <library name="json (v2.0.3, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.0.3" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/data" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/java" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/tests" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/tools" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/diagrams" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/references" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.0.3" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/data" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/java" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/tests" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/tools" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/diagrams" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/references" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v0.16.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/kaminari-0.16.3/app" />
@@ -4089,6 +4233,19 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kaminari (v1.0.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.1/misc" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.1/misc" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-1.0.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="kaminari-actionview (v1.0.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-actionview-1.0.0/lib" />
@@ -4098,6 +4255,15 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-actionview-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari-actionview (v1.0.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-actionview-1.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-actionview-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-activerecord (v1.0.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-activerecord-1.0.0/lib" />
@@ -4105,6 +4271,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-activerecord-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.0.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-activerecord-1.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-activerecord-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-core (v1.0.0, rbenv: 2.4.0) [gem]">
@@ -4118,6 +4293,19 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/app" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.0.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.1/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.1/app" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.1/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/kaminari-core-1.0.1/config" />
       </SOURCES>
     </library>
     <library name="launchy (v2.4.3, rbenv: 2.3.0) [gem]">
@@ -4804,6 +4992,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/minitest-5.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.9.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/minitest-5.9.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/minitest-5.9.1/lib" />
       </SOURCES>
     </library>
     <library name="molinillo (v0.4.5, rbenv: 2.3.0) [gem]">
@@ -5537,6 +5734,19 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pg-0.19.0/sample" />
       </SOURCES>
     </library>
+    <library name="pg (v0.19.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/pg-0.19.0/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/pg-0.19.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/pg-0.19.0/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/pg-0.19.0/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/pg-0.19.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/pg-0.19.0/sample" />
+      </SOURCES>
+    </library>
     <library name="pg-hstore (v1.2.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pg-hstore-1.2.0/lib" />
@@ -5886,6 +6096,23 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/puma-3.6.0/ext" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/puma-3.6.0/lib" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/puma-3.6.0/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.6.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.6.0" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/puma-3.6.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/puma-3.6.0/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/puma-3.6.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/puma-3.6.0/tools" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.6.0" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/puma-3.6.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/puma-3.6.0/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/puma-3.6.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/puma-3.6.0/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.6.2, rbenv: 2.3.0) [gem]">
@@ -6583,6 +6810,19 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-11.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v11.3.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rake-11.3.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rake-11.3.0/exe" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rake-11.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rake-11.3.0/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rake-11.3.0/exe" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rake-11.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.0.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-12.0.0/bin" />
@@ -6634,6 +6874,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ratyrate-1.2.2.alpha/lib" />
+      </SOURCES>
+    </library>
+    <library name="ratyrate (v1.2.2.alpha, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ratyrate-1.2.2.alpha/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ratyrate-1.2.2.alpha/lib" />
       </SOURCES>
     </library>
     <library name="rb-fsevent (v0.9.7, rbenv: 2.3.0) [gem]">
@@ -7113,6 +7362,21 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rmagick-2.16.0/deprecated" />
       </SOURCES>
     </library>
+    <library name="rmagick (v2.16.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rmagick/2.16.0" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/deprecated" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rmagick/2.16.0" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/deprecated" />
+      </SOURCES>
+    </library>
     <library name="rolify (v4.1.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.2.0/gems/rolify-4.1.1/lib" />
@@ -7559,6 +7823,23 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sass-3.4.22/extra" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sass-3.4.22/rails" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sass-3.4.22/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.4.22, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/extra" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/rails" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/lib" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/extra" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/rails" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sass-3.4.22/vendor" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.23, rbenv: 2.3.0) [gem]">
@@ -8035,6 +8316,15 @@
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sort_alphabetical-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="sort_alphabetical (v1.1.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sort_alphabetical-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/sort_alphabetical-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="SparkLib">
       <CLASSES>
         <root url="file:///opt/mapr/lib" />
@@ -8192,6 +8482,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/spring-2.0.0/bin" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/spring-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring (v2.0.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/spring-2.0.1/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/spring-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/spring-2.0.1/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/spring-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="spring-watcher-listen (v2.0.0, rbenv: 2.3.0) [gem]">
@@ -8600,6 +8901,17 @@
       <SOURCES>
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/bin" />
         <root url="file:///wrd/local/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/thor-0.19.1/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/thor-0.19.1/bin" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.4, rbenv: 2.3.0) [gem]">
@@ -9327,6 +9639,19 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.4" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-driver (v0.6.5, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
+        <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
     </library>
     <library name="websocket-extensions (v0.1.2, rbenv: 2.3.0) [gem]">
