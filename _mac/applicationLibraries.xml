@@ -8949,11 +8949,13 @@
     </library>
     <library name="therubyracer (v0.12.3, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/therubyracer-0.12.3/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/therubyracer-0.12.3/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/therubyracer-0.12.3/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
