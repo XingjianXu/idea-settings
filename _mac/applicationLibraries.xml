@@ -4590,11 +4590,13 @@
     </library>
     <library name="maxmind_geoip2 (v0.0.8, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/maxmind_geoip2/0.0.8" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/maxmind_geoip2-0.0.8/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/maxmind_geoip2-0.0.8/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/maxmind_geoip2/0.0.8" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/maxmind_geoip2-0.0.8/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/maxmind_geoip2-0.0.8/lib" />
       </SOURCES>
