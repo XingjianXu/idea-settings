@@ -3279,6 +3279,7 @@
     </library>
     <library name="ffi (v1.9.17, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.17" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/gen" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/lib" />
@@ -3286,6 +3287,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.17" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/gen" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/ffi-1.9.17/lib" />
@@ -4135,6 +4137,7 @@
     </library>
     <library name="json (v2.0.3, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.0.3" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/data" />
@@ -4146,6 +4149,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.0.3" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/json-2.0.3/data" />
@@ -5130,12 +5134,14 @@
     </library>
     <library name="mysql2 (v0.4.5, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.5" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mysql2-0.4.5/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mysql2-0.4.5/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mysql2-0.4.5/support" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.5" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mysql2-0.4.5/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mysql2-0.4.5/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/mysql2-0.4.5/support" />
@@ -7358,12 +7364,14 @@
     </library>
     <library name="rmagick (v2.16.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rmagick/2.16.0" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/deprecated" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rmagick/2.16.0" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/rmagick-2.16.0/deprecated" />
@@ -9633,11 +9641,13 @@
     </library>
     <library name="websocket-driver (v0.6.5, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
