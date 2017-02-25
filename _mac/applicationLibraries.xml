@@ -2131,6 +2131,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.2.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="semantic-ui-sass (v2.2.7.1, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/semantic-ui-sass-2.2.7.1/app" />
