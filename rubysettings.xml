@@ -1,8 +1,9 @@
 <application>
   <component name="RailsApplicationSettings">
-    <option name="wizardRailsFacetPreconfigureDBName" value="mysql" />
+    <option name="wizardRailsFacetPreconfigureDBName" value="postgresql" />
     <option name="wizardRailsFacetTemplates">
       <array>
+        <option value="/wrd/prj/rails-template/template.rb" />
         <option value="" />
       </array>
     </option>
