@@ -494,6 +494,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/childprocess-0.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.6.2, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/childprocess-0.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/childprocess-0.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.1, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/coderay-1.1.1/bin" />
@@ -566,6 +575,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/concurrent-ruby-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.0.5, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/concurrent-ruby-1.0.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
     <library name="connection_pool (v2.2.1, rbenv: 2.4.0) [gem]">
@@ -687,6 +705,15 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/domain_name-0.5.20161129/lib" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/domain_name-0.5.20161129/data" />
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/domain_name-0.5.20161129/tool" />
+      </SOURCES>
+    </library>
+    <library name="draper (v3.0.0.pre1@0bb5cd, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/draper-0bb5cded888d/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/draper-0bb5cded888d/lib" />
       </SOURCES>
     </library>
     <library name="draper (v3.0.0.pre1@273573, rbenv: 2.4.0) [gem]">
