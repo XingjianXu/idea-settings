@@ -188,6 +188,17 @@
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/addressable-2.5.0/tasks" />
       </SOURCES>
     </library>
+    <library name="ansi (v1.5.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ansi-1.5.0/demo" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ansi-1.5.0/demo" />
+      </SOURCES>
+    </library>
     <library name="arel (v7.1.4, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/arel-7.1.4/lib" />
@@ -1407,6 +1418,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/minitest-5.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest-reporters (v1.1.14, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/minitest-reporters-1.1.14/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/minitest-reporters-1.1.14/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/minitest-reporters-1.1.14/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/minitest-reporters-1.1.14/assets" />
       </SOURCES>
     </library>
     <library name="money (v6.8.1, rbenv: 2.4.0) [gem]">
