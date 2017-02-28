@@ -570,6 +570,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/childprocess-0.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="client_side_validations (v5.0.0@ca4bf6, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/client_side_validations-ca4bf6468d00/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/client_side_validations-ca4bf6468d00/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/client_side_validations-ca4bf6468d00/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/client_side_validations-ca4bf6468d00/coffeescript" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/client_side_validations-ca4bf6468d00/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/client_side_validations-ca4bf6468d00/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/client_side_validations-ca4bf6468d00/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/client_side_validations-ca4bf6468d00/coffeescript" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.1, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file:///wrd/local/rbenv/gems/2.4.0/gems/coderay-1.1.1/bin" />
