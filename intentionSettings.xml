@@ -6,5 +6,6 @@
     <ignoreAction name="XML/Collapse empty tag" />
     <ignoreAction name="Ruby/Replace safe navigation with chained calls conjunction" />
     <ignoreAction name="Ruby/Replace safe navigation with nested nil checks" />
+    <ignoreAction name="Ruby/I18n string value" />
   </component>
 </application>
