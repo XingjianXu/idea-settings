@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/wrd/prj/dotee/src/cli/config.rs" timestamp="1490792369325">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="/wrd/prj/seqkick/core/src/main/groovy/seqkick/model/Gene.groovy" timestamp="1456403737803">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="26" />
@@ -10,16 +17,25 @@
         <mark key="." line="19" column="26" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="2" column="4" filename="/wrd/prj/dotee/src/cli/config.rs" />
+      <jump line="1" column="0" filename="/wrd/prj/dotee/src/cli/config.rs" />
+    </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBkCg==</text>
       </register>
       <register name="&quot;" type="4">
+        <text>m</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bW9kIGNvbmZpZyB7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>m</text>
       </register>
     </registers>
     <search>
