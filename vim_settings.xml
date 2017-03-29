@@ -16,16 +16,20 @@
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="/wrd/prj/dotee/src/cli.yml" timestamp="1490793090115">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="10" />
+      <file name="/wrd/prj/dotee/src/cli.yml" timestamp="1490794208148">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="2" />
+        <mark key="^" line="19" column="2" />
+        <mark key="." line="19" column="2" />
       </file>
     </filemarks>
     <jumps>
       <jump line="2" column="4" filename="/wrd/prj/dotee/src/cli/config.rs" />
       <jump line="1" column="0" filename="/wrd/prj/dotee/src/cli/config.rs" />
+      <jump line="18" column="16" filename="/wrd/prj/dotee/src/cli.yml" />
+      <jump line="8" column="8" filename="/wrd/prj/dotee/src/cli.yml" />
+      <jump line="15" column="16" filename="/wrd/prj/dotee/src/cli.yml" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -40,21 +44,40 @@
       <register name="3" type="4">
         <text>e</text>
       </register>
+      <register name=":" type="4">
+        <text>/hel</text>
+      </register>
       <register name="-" type="4">
         <text>m</text>
       </register>
+      <register name="/" type="4">
+        <text>hel</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>hel</last-search>
+      <last-offset />
+      <last-pattern>hel</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>set</entry>
+        <entry>hel</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/set</entry>
+        <entry>/hel</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
