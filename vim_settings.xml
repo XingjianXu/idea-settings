@@ -16,6 +16,12 @@
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
+      <file name="/wrd/prj/dotee/src/cli.yml" timestamp="1490793090115">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="4" filename="/wrd/prj/dotee/src/cli/config.rs" />
