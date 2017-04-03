@@ -13,10 +13,11 @@
       <file name="/Dummy.txt" timestamp="1491187939211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wrd/prj/scipen/config/routes.rb" timestamp="1491187401668">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/wrd/prj/scipen/config/routes.rb" timestamp="1491192351623">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="/wrd/prj/seqkick/core/src/main/groovy/seqkick/model/Gene.groovy" timestamp="1456403737803">
         <mark key="[" line="19" column="26" />
@@ -55,11 +56,11 @@
       <jump line="21" column="4" filename="/wrd/prj/scipen/db/schema.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBUaGlzIGZpbGUgaXMgYXV0by1nZW5lcmF0ZWQgZnJvbSB0aGUgY3VycmVudCBzdGF0ZSBvZiB0aGUgZGF0YWJhc2UuIEluc3RlYWQKIyBvZiBlZGl0aW5nIHRoaXMgZmlsZSwgcGxlYXNlIHVzZSB0aGUgbWlncmF0aW9ucyBmZWF0dXJlIG9mIEFjdGl2ZSBSZWNvcmQgdG8KIyBpbmNyZW1lbnRhbGx5IG1vZGlmeSB5b3VyIGRhdGFiYXNlLCBhbmQgdGhlbiByZWdlbmVyYXRlIHRoaXMgc2NoZW1hIGRlZmluaXRpb24uCiMKIyBOb3RlIHRoYXQgdGhpcyBzY2hlbWEucmIgZGVmaW5pdGlvbiBpcyB0aGUgYXV0aG9yaXRhdGl2ZSBzb3VyY2UgZm9yIHlvdXIKIyBkYXRhYmFzZSBzY2hlbWEuIElmIHlvdSBuZWVkIHRvIGNyZWF0ZSB0aGUgYXBwbGljYXRpb24gZGF0YWJhc2Ugb24gYW5vdGhlcgojIHN5c3RlbSwgeW91IHNob3VsZCBiZSB1c2luZyBkYjpzY2hlbWE6bG9hZCwgbm90IHJ1bm5pbmcgYWxsIHRoZSBtaWdyYXRpb25zCiMgZnJvbSBzY3JhdGNoLiBUaGUgbGF0dGVyIGlzIGEgZmxhd2VkIGFuZCB1bnN1c3RhaW5hYmxlIGFwcHJvYWNoICh0aGUgbW9yZSBtaWdyYXRpb25zCiMgeW91J2xsIGFtYXNzLCB0aGUgc2xvd2VyIGl0J2xsIHJ1biBhbmQgdGhlIGdyZWF0ZXIgbGlrZWxpaG9vZCBmb3IgaXNzdWVzKS4KIwojIEl0J3Mgc3Ryb25nbHkgcmVjb21tZW5kZWQgdGhhdCB5b3UgY2hlY2sgdGhpcyBmaWxlIGludG8geW91ciB2ZXJzaW9uIGNvbnRyb2wgc3lzdGVtLgoKQWN0aXZlUmVjb3JkOjpTY2hlbWEuZGVmaW5lKHZlcnNpb246IDIwMTcwNDAzMDI0NzE0KSBkbwoKICAjIFRoZXNlIGFyZSBleHRlbnNpb25zIHRoYXQgbXVzdCBiZSBlbmFibGVkIGluIG9yZGVyIHRvIHN1cHBvcnQgdGhpcyBkYXRhYmFzZQogIGVuYWJsZV9leHRlbnNpb24gInBscGdzcWwiCgogIGNyZWF0ZV90YWJsZSAibm90ZWJvb2tzIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC5zdHJpbmcgIm5hbWUiCiAgICB0LmRhdGV0aW1lICJjcmVhdGVkX2F0IiwgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCBudWxsOiBmYWxzZQogIGVuZAoKICBjcmVhdGVfdGFibGUgInBvc3RzIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC50ZXh0ICJ0aXRsZSIKICAgIHQudGV4dCAiY29udGVudCIKICAgIHQuZGF0ZXRpbWUgImNyZWF0ZWRfYXQiLCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAidXBkYXRlZF9hdCIsIG51bGw6IGZhbHNlCiAgZW5kCgogIGNyZWF0ZV90YWJsZSAicHJvamVjdHMiLCBmb3JjZTogOmNhc2NhZGUgZG8gfHR8CiAgICB0LnN0cmluZyAibmFtZSIKICAgIHQudGV4dCAiZGVzYyIKICAgIHQuZGF0ZXRpbWUgImNyZWF0ZWRfYXQiLCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAidXBkYXRlZF9hdCIsIG51bGw6IGZhbHNlCiAgZW5kCgogIGNyZWF0ZV90YWJsZSAic3BhY2VzIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC5zdHJpbmcgIm5hbWUiCiAgICB0LnN0cmluZyAia2V5IgogICAgdC5pbnRlZ2VyICJvd25lcl9pZCIKICAgIHQuZGF0ZXRpbWUgImNyZWF0ZWRfYXQiLCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAidXBkYXRlZF9hdCIsIG51bGw6IGZhbHNlCiAgICB0LmluZGV4IFsib3duZXJfaWQiXSwgbmFtZTogImluZGV4X3NwYWNlc19vbl9vd25lcl9pZCIKICBlbmQKCmVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>cli.yml</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
