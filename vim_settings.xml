@@ -9,12 +9,12 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/header_nav.sass" timestamp="1491217265839">
-        <mark key="'" line="34" column="47" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="/wrd/prj/scipen/vendor/graced/header_nav.sass" timestamp="1491218661282">
+        <mark key="'" line="33" column="47" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1491214028330">
         <mark key="[" line="0" column="0" />
@@ -23,6 +23,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/wrd/prj/scipen/vendor/graced/reset.sass" timestamp="1491218516171">
+        <mark key="[" line="1" column="111" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="/wrd/prj/scipen/db/schema.rb" timestamp="1491187777504">
         <mark key="[" line="0" column="0" />
@@ -36,11 +42,10 @@
         <mark key="^" line="19" column="2" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/base.sass" timestamp="1491217639256">
-        <mark key="[" line="0" column="50" />
-        <mark key="]" line="2" column="110" />
-        <mark key="^" line="2" column="110" />
-        <mark key="." line="2" column="110" />
+      <file name="/wrd/prj/scipen/vendor/graced/base.sass" timestamp="1491218486446">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/wrd/prj/scipen/config/initializers/assets.rb" timestamp="1491195221907">
         <mark key="[" line="9" column="65" />
@@ -78,11 +83,11 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/index.sass" timestamp="1491214661649">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/wrd/prj/scipen/vendor/graced/index.sass" timestamp="1491218501325">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/wrd/prj/seqkick/core/src/main/groovy/seqkick/model/Gene.groovy" timestamp="1456403737803">
         <mark key="[" line="19" column="26" />
@@ -90,11 +95,11 @@
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491217399530">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="59" />
+      <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491218408391">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
         <mark key="^" line="13" column="59" />
-        <mark key="." line="13" column="59" />
+        <mark key="." line="14" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -109,11 +114,11 @@
       <jump line="39" column="47" filename="/wrd/prj/scipen/vendor/graced/header_nav.sass" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>container</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogJGhlYWRlci1uYXYtaGVpZ2h0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>container</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -122,31 +127,31 @@
         <text encoding="base64">UmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmFzc2V0cy5wYXRocyA8PCBSYWlscy5yb290LmpvaW4oJ25vZGVfbW9kdWxlcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBib3gtc2hhZG93OiAwIDFweCAxcHggcmdiYSgwLDAsMCwwLjA1KQo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJGhlYWRlci1uYXYtaGVpZ2h0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6ICRoZWFkZXItbmF2LWhlaWdodAo=</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUgLi9ub2RlX21vZHVsZXMvbm9ybWFsaXplLmNzcy9ub3JtYWxpemUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2hlYWRlci1uYXYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGhlYWRlci1uYXYtYWN0aXZlLWNvbG9yOiAjMUFBOEIyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGhlYWRlci1uYXYtaGVpZ2h0OiAzOHB4Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAubmF2LWl0ZW0KICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCAjRkZGCiAgICBwYWRkaW5nOiAxMHB4IDE1cHggN3B4IDE1cHgKICAubG9nbwogICAgZmxvYXQ6IGxlZnQKICAgIGNvbG9yOiAjMkFCN0MxCiAgICBmb250LXNpemU6IDE4cHgKICAgIGZvbnQtd2VpZ2h0OiBib2xkZXIKICAgIGhlaWdodDogJGhlYWRlci1uYXYtaGVpZ2h0CiAgICBwYWRkaW5nLWxlZnQ6IDAKICB1bC5uYXYtbGlzdAogICAgbGlzdC1zdHlsZTogbm9uZQogICAgZmxvYXQ6IGxlZnQKICAgIHBhZGRpbmc6IDAKICAgIG1hcmdpbjogMAogICAgJi5jZW50ZXIKICAgICAgcG9zaXRpb246IGFic29sdXRlCiAgICAgIGxlZnQ6IDQwJQogICAgJi5yaWdodAogICAgICBmbG9hdDogcmlnaHQKICAgICYgPiBsaQogICAgICBmbG9hdDogbGVmdAogICAgICAmID4gYQogICAgICAgIGNvbG9yOiAjMzMzCiAgICAgICAgdHJhbnNpdGlvbjogYWxsIC4ycyBlYXNlLWluLW91dAogICAgICAgIGRpc3BsYXk6IGJsb2NrCiAgICAgICAgJi5hY3RpdmUsICY6aG92ZXIKICAgICAgICAgIGNvbG9yOiAkaGVhZGVyLW5hdi1hY3RpdmUtY29sb3IKICAgICAgICAgIGJvcmRlci1jb2xvcjogJGhlYWRlci1uYXYtYWN0aXZlLWNvbG9yCg==</text>
+        <text encoding="base64">YQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAuY29udGFpbmVyCiAgICAmOmJlZm9yZSwgJjphZnRlcgogICAgICBkaXNwbGF5OiB0YWJsZQogICAgICBjb250ZW50OiAiICIKICAgICY6YWZ0ZXIKICAgICAgY2xlYXI6IGJvdGg=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAiU2Vnb2UgVUkiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmLCAiQXBwbGUgQ29sb3IgRW1vamkiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuY29udGFpbmVyCiAgICAmOmJlZm9yZSwgJjphZnRlcgogICAgICBkaXNwbGF5OiB0YWJsZQogICAgICBjb250ZW50OiAiICIKICAgICY6YWZ0ZXIKICAgICAgY2xlYXI6IGJvdGgK</text>
+        <text encoding="base64">aHRtbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaSA9IGxpbmtfdG8gJ05vdGVib29rcycsIG5vdGVib29rc19wYXRoLCBjbGFzczogIm5hdi1pdGVtICN7YWN0aXZlX2NsYXNzKG5vdGVib29rc19wYXRoKX0iCg==</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUgLi9ub2RlX21vZHVsZXMvbm9ybWFsaXplLmNzcy9ub3JtYWxpemUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
