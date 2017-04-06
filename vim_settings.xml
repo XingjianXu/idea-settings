@@ -16,7 +16,7 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491269679740">
+      <file name="/Dummy.txt" timestamp="1491442014783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wrd/prj/scipen/db/migrate/20170404013442_create_projects.rb" timestamp="1491269786258">
@@ -124,11 +124,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="/wrd/prj/qomo/app/views/pipelines/show.html.slim" timestamp="1491441887323">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="12" />
-        <mark key="." line="109" column="12" />
-        <mark key="^" line="109" column="125" />
+      <file name="/wrd/prj/qomo/app/views/pipelines/show.html.slim" timestamp="1491442001655">
+        <mark key="[" line="109" column="112" />
+        <mark key="]" line="109" column="110" />
+        <mark key="." line="109" column="110" />
+        <mark key="^" line="109" column="110" />
       </file>
       <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491270140025">
         <mark key="[" line="15" column="31" />
@@ -223,6 +223,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
