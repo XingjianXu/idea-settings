@@ -70,7 +70,6 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="73" />
       </file>
-      <file name="/wrd/prj/scipen/db/migrate/20170403025315_create_articles.rb" timestamp="1491213319283" />
       <file name="/wrd/prj/dotee/src/main.rs" timestamp="1490800957037">
         <mark key="'" line="8" column="55" />
         <mark key="[" line="5" column="37" />
@@ -94,11 +93,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/wrd/prj/scipen/config/routes.rb" timestamp="1491270186709">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="13" />
+      <file name="/wrd/prj/scipen/config/routes.rb" timestamp="1491467666540">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/index.sass" timestamp="1491218501325">
         <mark key="[" line="2" column="0" />
@@ -145,11 +144,11 @@
       <jump line="1" column="65" filename="/wrd/prj/scipen/app/controllers/projects_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOnNwYWNlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>spaces</text>
       </register>
       <register name="-" type="4">
-        <text>Spaces</text>
+        <text>spaces</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
