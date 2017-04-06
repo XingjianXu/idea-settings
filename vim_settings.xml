@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/lib/breadcrumbs_on_rails/breadcrumbs.rb" timestamp="1491476818568" />
       <file name="/wrd/prj/scipen/Gemfile" timestamp="1491475011484">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="24" />
@@ -16,16 +15,18 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/reset.sass" timestamp="1491482888411">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
+      <file name="/wrd/prj/scipen/vendor/graced/sub_nav.sass" timestamp="1491490156930">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
       </file>
-      <file name="/wrd/prj/scipen/db/schema.rb" timestamp="1491187777504">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/wrd/prj/scipen/vendor/graced/reset.sass" timestamp="1491489624562">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="/wrd/prj/dotee/src/cli.yml" timestamp="1490794208148">
         <mark key="'" line="15" column="16" />
@@ -34,11 +35,11 @@
         <mark key="^" line="19" column="2" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/base.sass" timestamp="1491479584817">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
+      <file name="/wrd/prj/scipen/vendor/graced/base.sass" timestamp="1491488804370">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="/wrd/prj/scipen/config/initializers/patch.rb" timestamp="1491476944101">
         <mark key="[" line="25" column="0" />
@@ -46,11 +47,10 @@
         <mark key="^" line="27" column="4" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/breadcrumb.sass" timestamp="1491478408665">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+      <file name="/wrd/prj/scipen/vendor/graced/breadcrumb.sass" timestamp="1491488600945">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/wrd/prj/dotee/src/main.rs" timestamp="1490800957037">
         <mark key="'" line="8" column="55" />
@@ -59,41 +59,30 @@
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="36" />
       </file>
-      <file name="/wrd/prj/scipen/app/helpers/breadcrumb_helper.rb" timestamp="1491477160535">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
       <file name="/wrd/prj/scipen/config/routes.rb" timestamp="1491467666540">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/wrd/prj/scipen/app/controllers/projects_controller.rb" timestamp="1491481439723">
+      <file name="/wrd/prj/scipen/app/controllers/projects_controller.rb" timestamp="1491486909867">
         <mark key="'" line="1" column="65" />
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="19" column="22" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/layouts/_breadcrumb.html.slim" timestamp="1491477186665">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="41" />
+      <file name="/wrd/prj/scipen/app/views/layouts/_breadcrumb.html.slim" timestamp="1491488827364">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/semantic-ui-sass-308d74a16d9a/app/assets/stylesheets/semantic-ui/collections/_form.scss" timestamp="1491482191469" />
       <file name="/wrd/prj/scipen/vendor/graced/var.sass" timestamp="1491482646433">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="20" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="20" />
-      </file>
-      <file name="/wrd/prj/scipen/app/views/projects/new.html.slim" timestamp="1491482376492">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/wrd/prj/scipen/app/models/notebook.rb" timestamp="1491269858059">
         <mark key="[" line="0" column="17" />
@@ -101,43 +90,49 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="/wrd/prj/scipen/app/views/layouts/_sub_nav.slim" timestamp="1491490097416">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
       <file name="/wrd/prj/scipen/.rubocop.yml" timestamp="1491269971952">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="9" />
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/header_nav.sass" timestamp="1491480356724">
-        <mark key="'" line="37" column="47" />
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="33" />
+      <file name="/wrd/prj/scipen/vendor/graced/header_nav.sass" timestamp="1491491101864">
+        <mark key="'" line="38" column="47" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/lib/breadcrumbs_on_rails/action_controller.rb" timestamp="1491475426040" />
-      <file name="/wrd/prj/scipen/app/views/projects/_form.html.slim" timestamp="1491484564039">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="5" column="35" />
+      <file name="/wrd/prj/scipen/app/views/projects/_form.html.slim" timestamp="1491486150760">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
-      <file name="/wrd/prj/scipen/db/migrate/20170404013442_create_projects.rb" timestamp="1491269786258">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
+      <file name="/wrd/prj/scipen/db/migrate/20170404013442_create_projects.rb" timestamp="1491486103881">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/button.sass" timestamp="1491484519231">
+      <file name="/wrd/prj/scipen/vendor/graced/button.sass" timestamp="1491485356342">
         <mark key="'" line="828" column="20" />
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="3" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="31" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/wrd/prj/scipen/.gitignore" timestamp="1491214015284">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/wrd/prj/scipen/vendor/graced/toolbar.sass" timestamp="1491488570314">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/wrd/prj/scipen/app/controllers/notebooks_controller.rb" timestamp="1491478972701">
         <mark key="[" line="2" column="35" />
@@ -145,10 +140,11 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="/wrd/prj/scipen/db/migrate/20170404013434_create_notebooks.rb" timestamp="1491269756353">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/wrd/prj/scipen/app/views/layouts/_toolbar.html.slim" timestamp="1491488955410">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/wrd/prj/scipen/config/initializers/assets.rb" timestamp="1491195221907">
         <mark key="[" line="9" column="65" />
@@ -156,11 +152,11 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="73" />
       </file>
-      <file name="/wrd/prj/scipen/app/assets/stylesheets/common.sass" timestamp="1491482319803">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+      <file name="/wrd/prj/scipen/app/assets/stylesheets/common.sass" timestamp="1491489209642">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="37" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/container.sass" timestamp="1491214619421">
         <mark key="[" line="4" column="0" />
@@ -181,11 +177,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/index.sass" timestamp="1491483707026">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/wrd/prj/scipen/vendor/graced/index.sass" timestamp="1491489190981">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/wrd/prj/scipen/app/controllers/application_controller.rb" timestamp="1491476901870">
         <mark key="[" line="2" column="35" />
@@ -193,17 +189,34 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="35" />
       </file>
+      <file name="/wrd/prj/scipen/app/views/projects/show.html.slim" timestamp="1491490817499">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="/wrd/prj/seqkick/core/src/main/groovy/seqkick/model/Gene.groovy" timestamp="1456403737803">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="26" />
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491475476304">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="33" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="33" />
+      <file name="/wrd/prj/scipen/app/views/projects/edit.html.slim" timestamp="1491490841142">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491491047282">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+      </file>
+      <file name="/wrd/prj/scipen/app/views/projects/index.html.slim" timestamp="1491490189161">
+        <mark key="[" line="1" column="60" />
+        <mark key="]" line="1" column="66" />
+        <mark key="." line="1" column="66" />
+        <mark key="^" line="1" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -220,46 +233,47 @@
       <jump line="21" column="4" filename="/wrd/prj/scipen/app/helpers/breadcrumb.rb" />
       <jump line="107" column="30" filename="/wrd/prj/scipen/vendor/graced/button.sass" />
       <jump line="828" column="20" filename="/wrd/prj/scipen/vendor/graced/button.sass" />
+      <jump line="26" column="0" filename="/wrd/prj/scipen/vendor/graced/reset.sass" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YWN0aW9ucyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWN0aW9ucyA=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpID0gbGlua190byAnU3BhY2VzJywgc3BhY2VzX3BhdGgsIGNsYXNzOiAibmF2LWl0ZW0gI3thY3RpdmVfY2xhc3Moc3BhY2VzX3BhdGgpfSIK</text>
+        <text encoding="base64">ICA9IGxpbmtfdG8gJ05ldycsIG5ld19wcm9qZWN0X3BhdGgsIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5IGJ0bi1zbScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gbWl4aW5zIGZvciBidXR0b24KLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkBtaXhpbiBidXR0b24tc2l6ZSgkcGFkZGluZywgJGZvbnQtc2l6ZSwgJGJvcmRlci1yYWRpdXMpCiAgcGFkZGluZzogJHBhZGRpbmcKICBmb250LXNpemU6ICRmb250LXNpemUKICBib3JkZXItcmFkaXVzOiAkYm9yZGVyLXJhZGl1cwoKCi5idXR0b24tZGlzYWJsZWQKICAmLmRpc2FibGVkLAogICZbZGlzYWJsZWRdCiAgICAmLAogICAgJjpob3ZlciwKICAgICY6Zm9jdXMsCiAgICAmOmFjdGl2ZSwKICAgICYuYWN0aXZlCiAgICAgIEBpbmNsdWRlIGJ1dHRvbi1jb2xvcigkYnRuLWRpc2FibGUtY29sb3IsICRidG4tZGlzYWJsZS1iZywgJGJ0bi1kaXNhYmxlLWJvcmRlcikKCkBtaXhpbiBidXR0b24tdmFyaWFudC1wcmltYXJ5KCRjb2xvciwgJGJhY2tncm91bmQpCiAgQGluY2x1ZGUgYnV0dG9uLWNvbG9yKCRjb2xvciwgJGJhY2tncm91bmQsICRiYWNrZ3JvdW5kKQogICY6aG92ZXIsCiAgJjpmb2N1cwogICAgQGluY2x1ZGUgYnV0dG9uLWNvbG9yKCRjb2xvciB+YGNvbG9yUGFsZXR0ZSgiJGJhY2tncm91bmQiLCA1KWAgfmBjb2xvclBhbGV0dGUoIiRiYWNrZ3JvdW5kIiwgNSlgKQoKCiAgJjphY3RpdmUsCiAgJi5hY3RpdmUKICAgIC5idXR0b24tY29sb3IoJGNvbG9yIH5gY29sb3JQYWxldHRlKCIkYmFja2dyb3VuZCIsIDcpYCB+YGNvbG9yUGFsZXR0ZSgiJGJhY2tncm91bmQiLCA3KWApCgoKICAuYnV0dG9uLWRpc2FibGVkKCkKCgouYnV0dG9uLXZhcmlhbnQtb3RoZXIoJGNvbG9yICRiYWNrZ3JvdW5kICRib3JkZXIpCiAgLmJ1dHRvbi1jb2xvcigkY29sb3IgJGJhY2tncm91bmQgJGJvcmRlcikKCiAgJjpob3ZlciwKICAmOmZvY3VzCiAgICAuYnV0dG9uLWNvbG9yKCRwcmltYXJ5LWNvbG9yICRiYWNrZ3JvdW5kICRwcmltYXJ5LWNvbG9yKQoKCiAgJjphY3RpdmUsCiAgJi5hY3RpdmUKICAgIC5idXR0b24tY29sb3IoJHByaW1hcnktNyAkYmFja2dyb3VuZCAkcHJpbWFyeS03KQoKCiAgLmJ1dHRvbi1kaXNhYmxlZCgpCgoKLmJ1dHRvbi12YXJpYW50LWdob3N0KCRjb2xvcikKICAuYnV0dG9uLWNvbG9yKCRjb2xvciB0cmFuc3BhcmVudCAkY29sb3IpCgogICY6aG92ZXIsCiAgJjpmb2N1cwogICAgLmJ1dHRvbi1jb2xvcih+YGNvbG9yUGFsZXR0ZSgiJGNvbG9yIiwgNSlgIHRyYW5zcGFyZW50IH5gY29sb3JQYWxldHRlKCIkY29sb3IiLCA1KWApCgoKICAmOmFjdGl2ZSwKICAmLmFjdGl2ZQogICAgLmJ1dHRvbi1jb2xvcih+YGNvbG9yUGFsZXR0ZSgiJGNvbG9yIiwgNylgIHRyYW5zcGFyZW50IH5gY29sb3JQYWxldHRlKCIkY29sb3IiLCA3KWApCgoKICAuYnV0dG9uLWRpc2FibGVkKCkKCgpAbWl4aW4gYnV0dG9uLWNvbG9yKCRjb2xvciwgJGJhY2tncm91bmQsICRib3JkZXIpCiAgY29sb3I6ICRjb2xvcgogIGJhY2tncm91bmQtY29sb3I6ICRiYWNrZ3JvdW5kCiAgYm9yZGVyLWNvbG9yOiAkYm9yZGVyCiAgPiBhOm9ubHktY2hpbGQKICAgIGNvbG9yOiBjdXJyZW50Q29sb3IKICAgICY6YWZ0ZXIKICAgICAgY29udGVudDogJycKICAgICAgcG9zaXRpb246IGFic29sdXRlCiAgICAgIHRvcDogMAogICAgICBsZWZ0OiAwCiAgICAgIGJvdHRvbTogMAogICAgICByaWdodDogMAogICAgICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudAoKCi5idXR0b24tZ3JvdXAtYmFzZSgkYnRuQ2xhc3NOYW1lKQogIHBvc2l0aW9uOiByZWxhdGl2ZQogIGRpc3BsYXk6IGlubGluZS1ibG9jawogID4gLiRidG5DbGFzc05hbWUKICAgIHBvc2l0aW9uOiByZWxhdGl2ZQogICAgei1pbmRleDogMQoKICAgICY6aG92ZXIsCiAgICAmOmZvY3VzLAogICAgJjphY3RpdmUsCiAgICAmLmFjdGl2ZQogICAgICB6LWluZGV4OiAyCgoKICAgICY6ZGlzYWJsZWQKICAgICAgei1pbmRleDogMAoKCgogIC8vIHNpemUKICAmLWxnID4gLiRidG5DbGFzc05hbWUKICAgIC5idXR0b24tc2l6ZSgkYnRuLXBhZGRpbmctbGcgJGJ0bi1mb250LXNpemUtbGcgJGJ0bi1ib3JkZXItcmFkaXVzLWJhc2UpCgoKICAmLXNtID4gLiRidG5DbGFzc05hbWUKICAgIC5idXR0b24tc2l6ZSgkYnRuLXBhZGRpbmctc20gJGZvbnQtc2l6ZS1iYXNlICRidG4tYm9yZGVyLXJhZGl1cy1zbSkKICAgID4gLiRpY29uZm9udC1jc3MtcHJlZml4Z2dkRwogICAgICBmb250LXNpemU6ICRmb250LXNpemUtYmFzZQoKCgoKLy8gQmFzZSBzdHlsZXMgb2YgYnV0dG9ucwovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQouYnRuCiAgZGlzcGxheTogaW5saW5lLWJsb2NrCiAgbWFyZ2luLWJvdHRvbTogMAogIGZvbnQtd2VpZ2h0OiAkYnRuLWZvbnQtd2VpZ2h0CiAgdGV4dC1hbGlnbjogY2VudGVyCiAgdG91Y2gtYWN0aW9uOiBtYW5pcHVsYXRpb24KICBjdXJzb3I6IHBvaW50ZXIKICBiYWNrZ3JvdW5kLWltYWdlOiBub25lCiAgYm9yZGVyOiAkYm9yZGVyLXdpZHRoLWJhc2UgJGJvcmRlci1zdHlsZS1iYXNlIHRyYW5zcGFyZW50CiAgd2hpdGUtc3BhY2U6IG5vd3JhcAogIGxpbmUtaGVpZ2h0OiAkbGluZS1oZWlnaHQtYmFzZQogIEBpbmNsdWRlIGJ1dHRvbi1zaXplKCRidG4tcGFkZGluZy1iYXNlLCAkZm9udC1zaXplLWJhc2UsICRidG4tYm9yZGVyLXJhZGl1cy1iYXNlKQogIHVzZXItc2VsZWN0OiBub25lCiAgdHJhbnNpdGlvbjogYWxsIC4zcyAkZWFzZS1pbi1vdXQKICBwb3NpdGlvbjogcmVsYXRpdmUKCiAgPiAuJGljb25mb250LWNzcy1wcmVmaXgKICAgIGxpbmUtaGVpZ2h0OiAxCgoKICAmLAogICY6YWN0aXZlLAogICY6Zm9jdXMKICAgIG91dGxpbmU6IDAKCgogICY6bm90KFtkaXNhYmxlZF0pOmhvdmVyCiAgICB0ZXh0LWRlY29yYXRpb246IG5vbmUKCgogICY6bm90KFtkaXNhYmxlZF0pOmFjdGl2ZQogICAgb3V0bGluZTogMAogICAgdHJhbnNpdGlvbjogbm9uZQoKCiAgJi5kaXNhYmxlZCwKICAmW2Rpc2FibGVkXQogICAgY3Vyc29yOiBub3QtYWxsb3dlZAogICAgPiAqCiAgICAgIHBvaW50ZXItZXZlbnRzOiBub25lCgoKCiAgJi1sZyAKICAgIC5idXR0b24tc2l6ZSgkYnRuLXBhZGRpbmctbGcgJGJ0bi1mb250LXNpemUtbGcgJGJ0bi1ib3JkZXItcmFkaXVzLWJhc2UpCgoKICAmLXNtCiAgICAuYnV0dG9uLXNpemUoJGJ0bi1wYWRkaW5nLXNtICRmb250LXNpemUtYmFzZSAkYnRuLWJvcmRlci1yYWRpdXMtc20pCgoKCi8vIHByaW1hcnkgYnV0dG9uIHN0eWxlCi5idG4tcHJpbWFyeSgpCiAgLmJ1dHRvbi12YXJpYW50LXByaW1hcnkoJGJ0bi1wcmltYXJ5LWNvbG9yICRidG4tcHJpbWFyeS1iZykKCgovLyBkZWZhdWx0IGJ1dHRvbiBzdHlsZQouYnRuLWRlZmF1bHQoKQogIC5idXR0b24tdmFyaWFudC1vdGhlcigkYnRuLWRlZmF1bHQtY29sb3IgJGJ0bi1kZWZhdWx0LWJnICRidG4tZGVmYXVsdC1ib3JkZXIpCiAgJjpob3ZlciwKICAmOmZvY3VzLAogICY6YWN0aXZlLAogICYuYWN0aXZlCiAgICBiYWNrZ3JvdW5kOiAjZmZmCgoKCi8vIGdob3N0IGJ1dHRvbiBzdHlsZQouYnRuLWdob3N0KCkKICAuYnV0dG9uLXZhcmlhbnQtb3RoZXIoJGJ0bi1naG9zdC1jb2xvciwgJGJ0bi1naG9zdC1iZywgJGJ0bi1naG9zdC1ib3JkZXIpCgoKLy8gZGFzaGVkIGJ1dHRvbiBzdHlsZQouYnRuLWRhc2hlZCgpCiAgLmJ1dHRvbi12YXJpYW50LW90aGVyKCRidG4tZGVmYXVsdC1jb2xvciwgJGJ0bi1kZWZhdWx0LWJnLCAkYnRuLWRlZmF1bHQtYm9yZGVyKQogIGJvcmRlci1zdHlsZTogZGFzaGVkCgoKLy8gZGFuZ2VyIGJ1dHRvbiBzdHlsZQouYnRuLWRhbmdlcigpCiAgLmJ1dHRvbi12YXJpYW50LXByaW1hcnkoJGJ0bi1kYW5nZXItY29sb3IsICRidG4tZGFuZ2VyLWJnKQoKCi8vIGNpcmNsZSBidXR0b246IHRoZSBjb250ZW50IG9ubHkgY29udGFpbnMgaWNvbgouYnRuLWNpcmNsZSgkYnRuQ2xhc3NOYW1lOiBidG4pCiAgLnNxdWFyZSgkYnRuLWNpcmNsZS1zaXplKQogIC5idXR0b24tc2l6ZSgwICRmb250LXNpemUtYmFzZSArIDIgNTAlKQoKICAmLiRidG5DbGFzc05hbWUtbGcKICAgIC5zcXVhcmUoJGJ0bi1jaXJjbGUtc2l6ZS1sZykKICAgIC5idXR0b24tc2l6ZSgwICRidG4tZm9udC1zaXplLWxnICsgMiA1MCUpCgoKICAmLiRidG5DbGFzc05hbWUtc20KICAgIC5zcXVhcmUoJGJ0bi1jaXJjbGUtc2l6ZS1zbSkKICAgIC5idXR0b24tc2l6ZSgwICRmb250LXNpemUtYmFzZSA1MCUpCgoKCi8vIEhvcml6b250YWwgYnV0dG9uIGdyb3VwcyBzdHlsCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi5idG4tZ3JvdXAoJGJ0bkNsYXNzTmFtZTogYnRuKQogIC5idXR0b24tZ3JvdXAtYmFzZSgkYnRuQ2xhc3NOYW1lKQoKICAuJGJ0bkNsYXNzTmFtZSArIC4kYnRuQ2xhc3NOYW1lLAogIC4kYnRuQ2xhc3NOYW1lICsgJiwKICAmICsgLiRidG5DbGFzc05hbWUsCiAgJiArICYKICAgIG1hcmdpbi1sZWZ0OiAtMXB4CgoKICAuJGJ0bkNsYXNzTmFtZTpub3QoOmZpcnN0LWNoaWxkKTpub3QoOmxhc3QtY2hpbGQpCiAgICBib3JkZXItcmFkaXVzOiAwCiAgICBwYWRkaW5nLWxlZnQ6IDhweAogICAgcGFkZGluZy1yaWdodDogOHB4CgoKICA+IC4kYnRuQ2xhc3NOYW1lOmZpcnN0LWNoaWxkCiAgICBtYXJnaW4tbGVmdDogMAogICAgJjpub3QoOmxhc3QtY2hpbGQpCiAgICAgIGJvcmRlci1ib3R0b20tcmlnaHQtcmFkaXVzOiAwCiAgICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiAwCiAgICAgIHBhZGRpbmctcmlnaHQ6IDhweAoKCgogID4gLiRidG5DbGFzc05hbWU6bGFzdC1jaGlsZDpub3QoOmZpcnN0LWNoaWxkKQogICAgYm9yZGVyLWJvdHRvbS1sZWZ0LXJhZGl1czogMAogICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogMAogICAgcGFkZGluZy1sZWZ0OiA4cHgKCgogICYgPiAmCiAgICBmbG9hdDogbGVmdAoKCiAgJiA+ICY6bm90KDpmaXJzdC1jaGlsZCk6bm90KDpsYXN0LWNoaWxkKSA+IC4kYnRuQ2xhc3NOYW1lCiAgICBib3JkZXItcmFkaXVzOiAwCgoKICAmID4gJjpmaXJzdC1jaGlsZDpub3QoOmxhc3QtY2hpbGQpCiAgICA+IC4kYnRuQ2xhc3NOYW1lOmxhc3QtY2hpbGQKICAgICAgYm9yZGVyLWJvdHRvbS1yaWdodC1yYWRpdXM6IDAKICAgICAgYm9yZGVyLXRvcC1yaWdodC1yYWRpdXM6IDAKICAgICAgcGFkZGluZy1yaWdodDogOHB4CgoKCiAgJiA+ICY6bGFzdC1jaGlsZDpub3QoOmZpcnN0LWNoaWxkKSA+IC4kYnRuQ2xhc3NOYW1lOmZpcnN0LWNoaWxkCiAgICBib3JkZXItYm90dG9tLWxlZnQtcmFkaXVzOiAwCiAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwCiAgICBwYWRkaW5nLWxlZnQ6IDhweAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA9IGxpbmtfdG8gJ05ldycsIG5ld19wcm9qZWN0X3BhdGgsIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5IGJ0bi1zbScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA9IGxpbmtfdG8gJ0VkaXQnLCBlZGl0X3Byb2plY3RfcGF0aChAcHJvamVjdCksIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5IGJ0bi1zbScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8xNzI1MzQ1Nwo=</text>
+        <text encoding="base64">ICAuYnRuLWdyb3VwLmJ0bi1ncm91cC1zbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBhIGluc2lkZSBCdXR0b24gd2hpY2ggb25seSB3b3JrIGluIENocm9tZQo=</text>
+        <text encoding="base64">ICAuYnRuLWdyb3VwLmJ0bi1ncm91cC1zbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPSBsaW5rX3RvICdOZXcnLCBuZXdfcHJvamVjdF9wYXRoLCBjbGFzczogJ2J0biBidG4tcHJpbWFyeScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpID0gbWVzc2FnZQo=</text>
+        <text encoding="base64">QGltcG9ydCBjb250YWluZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIEBwcm9qZWN0LmVycm9ycy5mdWxsX21lc3NhZ2VzLmVhY2ggZG8gfG1lc3NhZ2V8Cg==</text>
+        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI0U3RTdFNwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdWwK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjlGOUY5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
