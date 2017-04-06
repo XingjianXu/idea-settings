@@ -70,7 +70,6 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="73" />
       </file>
-      <file name="/wrd/prj/scipen/db/migrate/20170403025315_create_articles.rb" timestamp="1491213319283" />
       <file name="/wrd/prj/dotee/src/main.rs" timestamp="1490800957037">
         <mark key="'" line="8" column="55" />
         <mark key="[" line="5" column="37" />
@@ -125,6 +124,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="/wrd/prj/qomo/app/views/pipelines/show.html.slim" timestamp="1491441887323">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="12" />
+        <mark key="." line="109" column="12" />
+        <mark key="^" line="109" column="125" />
+      </file>
       <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491270140025">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="31" />
@@ -145,11 +150,11 @@
       <jump line="1" column="65" filename="/wrd/prj/scipen/app/controllers/projects_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOnNwYWNlcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZHd1c2VycyA=</text>
       </register>
       <register name="-" type="4">
-        <text>Spaces</text>
+        <text encoding="base64">ZHd1c2VycyA=</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
