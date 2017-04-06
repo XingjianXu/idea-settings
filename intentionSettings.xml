@@ -7,5 +7,8 @@
     <ignoreAction name="Ruby/Replace safe navigation with chained calls conjunction" />
     <ignoreAction name="Ruby/Replace safe navigation with nested nil checks" />
     <ignoreAction name="Ruby/I18n string value" />
+    <ignoreAction name="Ruby/Add @return tag" />
+    <ignoreAction name="Ruby/Convert string to symbol" />
+    <ignoreAction name="Ruby/Convert ':' to '=&gt;'" />
   </component>
 </application>

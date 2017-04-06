@@ -15,6 +15,10 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="DSM.OpenInEditor" />
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta f6" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="DuplicatesForm.SendToLeft" />
@@ -23,6 +27,7 @@
   <action id="ExternalSystem.OpenConfig" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="FindNext" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -34,8 +39,19 @@
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="IncrementalSearch" />
   <action id="Jdbc.OpenTableEditor" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta f6" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="OpenModuleSettings" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta f6" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
