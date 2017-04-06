@@ -3,27 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/wrd/prj/scipen/.rubocop.yml" timestamp="1491269971952">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-      </file>
-      <file name="/wrd/prj/scipen/vendor/graced/header_nav.sass" timestamp="1491269006182">
-        <mark key="'" line="35" column="47" />
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1491269679740">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/wrd/prj/scipen/db/migrate/20170404013442_create_projects.rb" timestamp="1491269786258">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
+      <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/lib/breadcrumbs_on_rails/breadcrumbs.rb" timestamp="1491476818568" />
+      <file name="/wrd/prj/scipen/Gemfile" timestamp="1491475011484">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="24" />
+        <mark key="^" line="56" column="24" />
+        <mark key="." line="56" column="24" />
       </file>
       <file name="/wrd/prj/scipen/app/models/project.rb" timestamp="1491269870596">
         <mark key="[" line="0" column="15" />
@@ -31,21 +16,11 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="/wrd/prj/scipen/.gitignore" timestamp="1491214015284">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="/wrd/prj/scipen/db/migrate/20170404013434_create_notebooks.rb" timestamp="1491269756353">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/wrd/prj/scipen/vendor/graced/reset.sass" timestamp="1491218516171">
-        <mark key="[" line="1" column="111" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="11" />
+      <file name="/wrd/prj/scipen/vendor/graced/reset.sass" timestamp="1491482888411">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="/wrd/prj/scipen/db/schema.rb" timestamp="1491187777504">
         <mark key="[" line="0" column="0" />
@@ -59,16 +34,23 @@
         <mark key="^" line="19" column="2" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/base.sass" timestamp="1491218486446">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/wrd/prj/scipen/vendor/graced/base.sass" timestamp="1491479584817">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
-      <file name="/wrd/prj/scipen/config/initializers/assets.rb" timestamp="1491195221907">
-        <mark key="[" line="9" column="65" />
-        <mark key="]" line="9" column="65" />
-        <mark key="." line="9" column="65" />
-        <mark key="^" line="9" column="73" />
+      <file name="/wrd/prj/scipen/config/initializers/patch.rb" timestamp="1491476944101">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="/wrd/prj/scipen/vendor/graced/breadcrumb.sass" timestamp="1491478408665">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="/wrd/prj/dotee/src/main.rs" timestamp="1490800957037">
         <mark key="'" line="8" column="55" />
@@ -77,14 +59,113 @@
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="36" />
       </file>
-      <file name="/wrd/prj/scipen/app/assets/stylesheets/common.sass" timestamp="1491194591021">
+      <file name="/wrd/prj/scipen/app/helpers/breadcrumb_helper.rb" timestamp="1491477160535">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="/wrd/prj/scipen/config/routes.rb" timestamp="1491467666540">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+      </file>
+      <file name="/wrd/prj/scipen/app/controllers/projects_controller.rb" timestamp="1491481439723">
+        <mark key="'" line="1" column="65" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
+      </file>
+      <file name="/wrd/prj/scipen/app/views/layouts/_breadcrumb.html.slim" timestamp="1491477186665">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/semantic-ui-sass-308d74a16d9a/app/assets/stylesheets/semantic-ui/collections/_form.scss" timestamp="1491482191469" />
+      <file name="/wrd/prj/scipen/vendor/graced/var.sass" timestamp="1491482646433">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="/wrd/prj/scipen/app/views/projects/new.html.slim" timestamp="1491482376492">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/wrd/prj/scipen/app/models/notebook.rb" timestamp="1491269858059">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="/wrd/prj/scipen/.rubocop.yml" timestamp="1491269971952">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+      </file>
+      <file name="/wrd/prj/scipen/vendor/graced/header_nav.sass" timestamp="1491480356724">
+        <mark key="'" line="37" column="47" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/lib/breadcrumbs_on_rails/action_controller.rb" timestamp="1491475426040" />
+      <file name="/wrd/prj/scipen/app/views/projects/_form.html.slim" timestamp="1491482535033">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="/wrd/prj/scipen/db/migrate/20170404013442_create_projects.rb" timestamp="1491269786258">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="/wrd/prj/scipen/.gitignore" timestamp="1491214015284">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/wrd/prj/scipen/app/controllers/notebooks_controller.rb" timestamp="1491478972701">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+      </file>
+      <file name="/wrd/prj/scipen/db/migrate/20170404013434_create_notebooks.rb" timestamp="1491269756353">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/wrd/prj/scipen/config/initializers/assets.rb" timestamp="1491195221907">
+        <mark key="[" line="9" column="65" />
+        <mark key="]" line="9" column="65" />
+        <mark key="." line="9" column="65" />
+        <mark key="^" line="9" column="73" />
+      </file>
+      <file name="/wrd/prj/scipen/app/assets/stylesheets/common.sass" timestamp="1491482319803">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/container.sass" timestamp="1491214619421">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
+      </file>
+      <file name="/wrd/prj/scipen/app/helpers/breadcrumb.rb" timestamp="1491477075044">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="/wrd/prj/dotee/src/cli/config.rs" timestamp="1490792369325">
         <mark key="'" line="1" column="0" />
@@ -93,24 +174,17 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/wrd/prj/scipen/config/routes.rb" timestamp="1491467666540">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
+      <file name="/wrd/prj/scipen/vendor/graced/index.sass" timestamp="1491478107534">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/index.sass" timestamp="1491218501325">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="/wrd/prj/scipen/app/controllers/projects_controller.rb" timestamp="1491270061762">
-        <mark key="'" line="1" column="65" />
-        <mark key="[" line="1" column="65" />
-        <mark key="]" line="1" column="62" />
-        <mark key="." line="1" column="62" />
-        <mark key="^" line="1" column="62" />
+      <file name="/wrd/prj/scipen/app/controllers/application_controller.rb" timestamp="1491476901870">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="35" />
       </file>
       <file name="/wrd/prj/seqkick/core/src/main/groovy/seqkick/model/Gene.groovy" timestamp="1456403737803">
         <mark key="[" line="19" column="26" />
@@ -118,16 +192,11 @@
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="/wrd/prj/scipen/app/models/notebook.rb" timestamp="1491269858059">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-      </file>
-      <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491472003735">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491475476304">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -141,13 +210,14 @@
       <jump line="21" column="4" filename="/wrd/prj/scipen/db/schema.rb" />
       <jump line="39" column="47" filename="/wrd/prj/scipen/vendor/graced/header_nav.sass" />
       <jump line="1" column="65" filename="/wrd/prj/scipen/app/controllers/projects_controller.rb" />
+      <jump line="21" column="4" filename="/wrd/prj/scipen/app/helpers/breadcrumb.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaSA9IGxpbmtfdG8gJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>spaces</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -156,31 +226,31 @@
         <text encoding="base64">ICAgICAgICAgIGxpID0gbGlua190byAnU3BhY2VzJywgc3BhY2VzX3BhdGgsIGNsYXNzOiAibmF2LWl0ZW0gI3thY3RpdmVfY2xhc3Moc3BhY2VzX3BhdGgpfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaSA9IGxpbmtfdG8gJycK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOnNwYWNlcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdC50aW1lc3RhbXBzCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxpID0gbWVzc2FnZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAtIEBwcm9qZWN0LmVycm9ycy5mdWxsX21lc3NhZ2VzLmVhY2ggZG8gfG1lc3NhZ2V8Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdWwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaDIgPSAiI3twbHVyYWxpemUoQHByb2plY3QuZXJyb3JzLmNvdW50LCAiZXJyb3IiKX0gcHJvaGliaXRlZCB0aGlzIHByb2plY3QgZnJvbSBiZWluZyBzYXZlZDoiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICNlcnJvcl9leHBsYW5hdGlvbgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90YWJsZSA6cHJvamVjdHMgZG8gfHR8Cg==</text>
+        <text encoding="base64">ICAtIGlmIEBwcm9qZWN0LmVycm9ycy5hbnk/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdC50aW1lc3RhbXBzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -191,7 +261,7 @@
       <last-offset />
       <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
