@@ -15,6 +15,13 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
+      <file name="/wrd/prj/scipen/vendor/graced/reset.sass" timestamp="1491489624562">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
       <file name="/wrd/prj/scipen/db/schema.rb" timestamp="1491630724613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -26,17 +33,17 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="/wrd/prj/dotee/src/main.rs" timestamp="1490800957037">
-        <mark key="'" line="8" column="55" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
-      </file>
       <file name="/wrd/prj/scipen/app/helpers/breadcrumb_helper.rb" timestamp="1491477160535">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="/wrd/prj/scipen/app/controllers/projects_controller.rb" timestamp="1491647888074">
+        <mark key="'" line="1" column="65" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="/wrd/prj/scipen/app/models/space.rb" timestamp="1491573238482">
         <mark key="[" line="2" column="26" />
@@ -79,13 +86,6 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="/wrd/prj/dotee/src/cli/config.rs" timestamp="1490792369325">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="/wrd/prj/scipen/db/migrate/20170403024714_create_spaces.rb" timestamp="1491630747368">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -102,11 +102,6 @@
         <mark key="]" line="19" column="26" />
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
-      </file>
-      <file name="/wrd/prj/scipen/app/views/projects/edit.html.slim" timestamp="1491490841142">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491492171676">
         <mark key="[" line="17" column="13" />
@@ -142,13 +137,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/wrd/prj/dotee/src/cli.yml" timestamp="1490794208148">
-        <mark key="'" line="15" column="16" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="2" />
-        <mark key="^" line="19" column="2" />
-        <mark key="." line="19" column="2" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/base.sass" timestamp="1491488804370">
         <mark key="[" line="10" column="0" />
@@ -197,13 +185,6 @@
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/header_nav.sass" timestamp="1491491895278">
-        <mark key="'" line="38" column="47" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
       <file name="/wrd/prj/scipen/app/controllers/home_controller.rb" timestamp="1491492322178">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -214,13 +195,6 @@
         <mark key="]" line="4" column="37" />
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
-      </file>
-      <file name="/wrd/prj/scipen/vendor/graced/button.sass" timestamp="1491485356342">
-        <mark key="'" line="828" column="20" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/toolbar.sass" timestamp="1491488570314">
         <mark key="[" line="1" column="0" />
@@ -245,6 +219,13 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="/wrd/prj/scipen/app/controllers/articles_controller.rb" timestamp="1491649024064">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+      </file>
       <file name="/wrd/prj/scipen/app/assets/stylesheets/common.sass" timestamp="1491489209642">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="37" />
@@ -268,6 +249,12 @@
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
       </file>
+      <file name="/wrd/prj/scipen/app/views/articles/_form.html.slim" timestamp="1491647474850">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="4" filename="/wrd/prj/dotee/src/cli/config.rs" />
@@ -286,46 +273,53 @@
       <jump line="26" column="0" filename="/wrd/prj/scipen/vendor/graced/reset.sass" />
       <jump line="36" column="4" filename="/wrd/prj/scipen/db/schema.rb" />
       <jump line="1" column="0" filename="/wrd/prj/scipen/db/schema.rb" />
+      <jump line="16" column="6" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
+      <jump line="71" column="45" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
+      <jump line="1" column="21" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
+      <jump line="2" column="16" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
+      <jump line="26" column="11" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
+      <jump line="73" column="0" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
+      <jump line="90" column="0" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new_project_path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBhcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>new_project_path</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA9IGxpbmtfdG8gJ05ldycsIG5ld19wcm9qZWN0X3BhdGgsIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5IGJ0bi1zbScK</text>
+        <text encoding="base64">ICAgICAgYWRkX2JyZWFkY3J1bWIgJ1Byb2plY3RzJywgOnByb2plY3RzX3BhdGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFydGljbGUuY3JlYXRlISBzcGFjZV9pZDogQHNwYWNlLmlkLCB0aXRsZTogZGQK</text>
+        <text encoding="base64">ICAgIEBhcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDplbnRyeV9pZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUaGlzIGZpbGUgaXMgYXV0by1nZW5lcmF0ZWQgZnJvbSB0aGUgY3VycmVudCBzdGF0ZSBvZiB0aGUgZGF0YWJhc2UuIEluc3RlYWQKIyBvZiBlZGl0aW5nIHRoaXMgZmlsZSwgcGxlYXNlIHVzZSB0aGUgbWlncmF0aW9ucyBmZWF0dXJlIG9mIEFjdGl2ZSBSZWNvcmQgdG8KIyBpbmNyZW1lbnRhbGx5IG1vZGlmeSB5b3VyIGRhdGFiYXNlLCBhbmQgdGhlbiByZWdlbmVyYXRlIHRoaXMgc2NoZW1hIGRlZmluaXRpb24uCiMKIyBOb3RlIHRoYXQgdGhpcyBzY2hlbWEucmIgZGVmaW5pdGlvbiBpcyB0aGUgYXV0aG9yaXRhdGl2ZSBzb3VyY2UgZm9yIHlvdXIKIyBkYXRhYmFzZSBzY2hlbWEuIElmIHlvdSBuZWVkIHRvIGNyZWF0ZSB0aGUgYXBwbGljYXRpb24gZGF0YWJhc2Ugb24gYW5vdGhlcgojIHN5c3RlbSwgeW91IHNob3VsZCBiZSB1c2luZyBkYjpzY2hlbWE6bG9hZCwgbm90IHJ1bm5pbmcgYWxsIHRoZSBtaWdyYXRpb25zCiMgZnJvbSBzY3JhdGNoLiBUaGUgbGF0dGVyIGlzIGEgZmxhd2VkIGFuZCB1bnN1c3RhaW5hYmxlIGFwcHJvYWNoICh0aGUgbW9yZSBtaWdyYXRpb25zCiMgeW91J2xsIGFtYXNzLCB0aGUgc2xvd2VyIGl0J2xsIHJ1biBhbmQgdGhlIGdyZWF0ZXIgbGlrZWxpaG9vZCBmb3IgaXNzdWVzKS4KIwojIEl0J3Mgc3Ryb25nbHkgcmVjb21tZW5kZWQgdGhhdCB5b3UgY2hlY2sgdGhpcyBmaWxlIGludG8geW91ciB2ZXJzaW9uIGNvbnRyb2wgc3lzdGVtLgoKQWN0aXZlUmVjb3JkOjpTY2hlbWEuZGVmaW5lKHZlcnNpb246IDIwMTcwNDA0MDEzNDQyKSBkbwoKICAjIFRoZXNlIGFyZSBleHRlbnNpb25zIHRoYXQgbXVzdCBiZSBlbmFibGVkIGluIG9yZGVyIHRvIHN1cHBvcnQgdGhpcyBkYXRhYmFzZQogIGVuYWJsZV9leHRlbnNpb24gInBscGdzcWwiCgogIGNyZWF0ZV90YWJsZSAiYXJ0aWNsZXMiLCBmb3JjZTogOmNhc2NhZGUgZG8gfHR8CiAgICB0LnRleHQgInRpdGxlIgogICAgdC50ZXh0ICJzbHVnIgogICAgdC50ZXh0ICJjb250ZW50IgogICAgdC5pbnRlZ2VyICJzcGFjZV9pZCIKICAgIHQuZGF0ZXRpbWUgImNyZWF0ZWRfYXQiLCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAidXBkYXRlZF9hdCIsIG51bGw6IGZhbHNlCiAgICB0LmluZGV4IFsic3BhY2VfaWQiLCAic2x1ZyJdLCBuYW1lOiAiaW5kZXhfYXJ0aWNsZXNfb25fc3BhY2VfaWRfYW5kX3NsdWciCiAgICB0LmluZGV4IFsic3BhY2VfaWQiXSwgbmFtZTogImluZGV4X2FydGljbGVzX29uX3NwYWNlX2lkIgogIGVuZAoKICBjcmVhdGVfdGFibGUgInNwYWNlcyIsIGZvcmNlOiA6Y2FzY2FkZSBkbyB8dHwKICAgIHQuc3RyaW5nICJuYW1lIgogICAgdC5zdHJpbmcgImtleSIKICAgIHQuaW50ZWdlciAib3duZXJfaWQiCiAgICB0LmRhdGV0aW1lICJjcmVhdGVkX2F0IiwgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAiZHVlX2F0IgogICAgdC50ZXh0ICJkZXNjIgogICAgdC5zdHJpbmcgInR5cGUiCiAgICB0LmluZGV4IFsibmFtZSJdLCBuYW1lOiAiaW5kZXhfc3BhY2VzX29uX25hbWUiCiAgICB0LmluZGV4IFsib3duZXJfaWQiXSwgbmFtZTogImluZGV4X3NwYWNlc19vbl9vd25lcl9pZCIKICBlbmQKCmVuZAo=</text>
+        <text encoding="base64">ICAgIEBhcnRpY2xlLnNwYWNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6c3BhY2VzCg==</text>
+        <text encoding="base64">ICAgIHBwIHBhcmFtc1s6YWN0aW9uXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6YXJ0aWNsZXMsIDpzbHVnCg==</text>
+        <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iKCcnKSBpZiBwYXJhbXNbOmFjdGlvbl0gPT0gOm5ldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cm9vdF9zcGFjZSA9IFNwYWNlLmNyZWF0ZV9yb290IQo=</text>
+        <text encoding="base64">ICAgIGVuZGRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUaGlzIGZpbGUgaXMgYXV0by1nZW5lcmF0ZWQgZnJvbSB0aGUgY3VycmVudCBzdGF0ZSBvZiB0aGUgZGF0YWJhc2UuIEluc3RlYWQKIyBvZiBlZGl0aW5nIHRoaXMgZmlsZSwgcGxlYXNlIHVzZSB0aGUgbWlncmF0aW9ucyBmZWF0dXJlIG9mIEFjdGl2ZSBSZWNvcmQgdG8KIyBpbmNyZW1lbnRhbGx5IG1vZGlmeSB5b3VyIGRhdGFiYXNlLCBhbmQgdGhlbiByZWdlbmVyYXRlIHRoaXMgc2NoZW1hIGRlZmluaXRpb24uCiMKIyBOb3RlIHRoYXQgdGhpcyBzY2hlbWEucmIgZGVmaW5pdGlvbiBpcyB0aGUgYXV0aG9yaXRhdGl2ZSBzb3VyY2UgZm9yIHlvdXIKIyBkYXRhYmFzZSBzY2hlbWEuIElmIHlvdSBuZWVkIHRvIGNyZWF0ZSB0aGUgYXBwbGljYXRpb24gZGF0YWJhc2Ugb24gYW5vdGhlcgojIHN5c3RlbSwgeW91IHNob3VsZCBiZSB1c2luZyBkYjpzY2hlbWE6bG9hZCwgbm90IHJ1bm5pbmcgYWxsIHRoZSBtaWdyYXRpb25zCiMgZnJvbSBzY3JhdGNoLiBUaGUgbGF0dGVyIGlzIGEgZmxhd2VkIGFuZCB1bnN1c3RhaW5hYmxlIGFwcHJvYWNoICh0aGUgbW9yZSBtaWdyYXRpb25zCiMgeW91J2xsIGFtYXNzLCB0aGUgc2xvd2VyIGl0J2xsIHJ1biBhbmQgdGhlIGdyZWF0ZXIgbGlrZWxpaG9vZCBmb3IgaXNzdWVzKS4KIwojIEl0J3Mgc3Ryb25nbHkgcmVjb21tZW5kZWQgdGhhdCB5b3UgY2hlY2sgdGhpcyBmaWxlIGludG8geW91ciB2ZXJzaW9uIGNvbnRyb2wgc3lzdGVtLgoKQWN0aXZlUmVjb3JkOjpTY2hlbWEuZGVmaW5lKHZlcnNpb246IDIwMTcwNDA0MDEzNDQyKSBkbwoKICAjIFRoZXNlIGFyZSBleHRlbnNpb25zIHRoYXQgbXVzdCBiZSBlbmFibGVkIGluIG9yZGVyIHRvIHN1cHBvcnQgdGhpcyBkYXRhYmFzZQogIGVuYWJsZV9leHRlbnNpb24gInBscGdzcWwiCgogIGNyZWF0ZV90YWJsZSAiYXJ0aWNsZXMiLCBmb3JjZTogOmNhc2NhZGUgZG8gfHR8CiAgICB0LnRleHQgInRpdGxlIgogICAgdC50ZXh0ICJzbHVnIgogICAgdC50ZXh0ICJjb250ZW50IgogICAgdC5kYXRldGltZSAiY3JlYXRlZF9hdCIsIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJ1cGRhdGVkX2F0IiwgbnVsbDogZmFsc2UKICAgIHQuaW5kZXggWyJzbHVnIl0sIG5hbWU6ICJpbmRleF9hcnRpY2xlc19vbl9zbHVnIgogIGVuZAoKICBjcmVhdGVfdGFibGUgInNwYWNlcyIsIGZvcmNlOiA6Y2FzY2FkZSBkbyB8dHwKICAgIHQuc3RyaW5nICJuYW1lIgogICAgdC5zdHJpbmcgImtleSIKICAgIHQuaW50ZWdlciAib3duZXJfaWQiCiAgICB0LmRhdGV0aW1lICJjcmVhdGVkX2F0IiwgbnVsbDogZmFsc2UKICAgIHQuZGF0ZXRpbWUgInVwZGF0ZWRfYXQiLCBudWxsOiBmYWxzZQogICAgdC5kYXRldGltZSAiZHVlX2F0IgogICAgdC50ZXh0ICJkZXNjIgogICAgdC5zdHJpbmcgInR5cGUiCiAgICB0LmluZGV4IFsib3duZXJfaWQiXSwgbmFtZTogImluZGV4X3NwYWNlc19vbl9vd25lcl9pZCIKICBlbmQKCmVuZAo=</text>
+        <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iICdQcm9qZWN0cycsIDpwcm9qZWN0c19wYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUaGlzIGZpbGUgc2hvdWxkIGNvbnRhaW4gYWxsIHRoZSByZWNvcmQgY3JlYXRpb24gbmVlZGVkIHRvIHNlZWQgdGhlIGRhdGFiYXNlIHdpdGggaXRzIGRlZmF1bHQgdmFsdWVzLgojIFRoZSBkYXRhIGNhbiB0aGVuIGJlIGxvYWRlZCB3aXRoIHRoZSByYWlscyBkYjpzZWVkIGNvbW1hbmQgKG9yIGNyZWF0ZWQgYWxvbmdzaWRlIHRoZSBkYXRhYmFzZSB3aXRoIGRiOnNldHVwKS4KIwojIEV4YW1wbGVzOgojCiMgICBtb3ZpZXMgPSBNb3ZpZS5jcmVhdGUoW3sgbmFtZTogJ1N0YXIgV2FycycgfSwgeyBuYW1lOiAnTG9yZCBvZiB0aGUgUmluZ3MnIH1dKQojICAgQ2hhcmFjdGVyLmNyZWF0ZShuYW1lOiAnTHVrZScsIG1vdmllOiBtb3ZpZXMuZmlyc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA9IGxpbmtfdG8gJ0VkaXQnLCBlZGl0X3Byb2plY3RfcGF0aChAcHJvamVjdCksIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5IGJ0bi1zbScK</text>
+        <text encoding="base64">ICBhZGRfYnJlYWRjcnVtYiAnUHJvamVjdHMnLCA6cHJvamVjdHNfcGF0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -347,6 +341,7 @@
       <history-cmd>
         <entry>/set</entry>
         <entry>/hel</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
