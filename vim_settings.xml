@@ -4,11 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/lib/breadcrumbs_on_rails/breadcrumbs.rb" timestamp="1491476818568" />
-      <file name="/wrd/prj/scipen/app/assets/javascripts/channels/common.coffee" timestamp="1491656329189">
+      <file name="/wrd/prj/scipen/app/assets/javascripts/channels/common.coffee" timestamp="1491657046893">
         <mark key="'" line="8" column="82" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="21" />
       </file>
       <file name="/wrd/prj/scipen/app/models/project.rb" timestamp="1491269870596">
         <mark key="[" line="0" column="15" />
@@ -77,6 +78,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="/wrd/prj/scipen/app/assets/javascripts/application.js" timestamp="1491658267549">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/wrd/prj/scipen/app/views/projects/_form.html.slim" timestamp="1491486150760">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="16" />
@@ -125,7 +131,12 @@
         <mark key="^" line="191" column="19" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/wrd/prj/scipen/app/assets/stylesheets/codemirror.css" timestamp="1491656438189" />
+      <file name="/wrd/prj/scipen/app/assets/stylesheets/codemirror.css" timestamp="1491657941351">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="365" column="99" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="/wrd/prj/scipen/app/controllers/application_controller.rb" timestamp="1491476901870">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="35" />
@@ -307,10 +318,10 @@
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/articles/_form.html.slim" timestamp="1491654837546">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/wrd/prj/scipen/app/views/articles/_form.html.slim" timestamp="1491658038830">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
         <mark key="^" line="3" column="17" />
       </file>
     </filemarks>
@@ -347,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoZW1lOiAnc2NpcGVuJwo=</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUgdHVyYm9saW5rcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>monospace</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
@@ -359,31 +370,31 @@
         <text encoding="base64">ICBoZWlnaHQ6IDEwMCUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoZW1lOiAnc2NpcGVuJwo=</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUgdHVyYm9saW5rcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjMTcwCg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgM3B4IDAgMHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuY20tdGFnCg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHggMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjYTExCg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuY20tc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIHRoZW1lOiAnc2NpcGVuJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuY20tYXR0cmlidXRlCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjMTcwCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb2xvcjogIzAwYw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAuY20tdGFnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuY20tbGluawo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjYTExCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBjb2xvcjogIzAwYw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAuY20tc3RyaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
