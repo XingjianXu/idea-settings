@@ -229,11 +229,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="/wrd/prj/scipen/app/assets/javascripts/common.coffee" timestamp="1491660526959">
-        <mark key="[" line="8" column="65" />
-        <mark key="]" line="8" column="65" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="8" column="65" />
+      <file name="/wrd/prj/scipen/app/assets/javascripts/common.coffee" timestamp="1491710490934">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="44" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/var.sass" timestamp="1491482646433">
         <mark key="[" line="3" column="19" />
@@ -388,10 +388,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slef</text>
+        <text>el_article_content</text>
       </register>
       <register name="-" type="4">
-        <text>slef</text>
+        <text>el_article_content</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
