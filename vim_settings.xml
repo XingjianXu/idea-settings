@@ -257,11 +257,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="/wrd/prj/scipen/app/assets/javascripts/common.coffee" timestamp="1491748217432">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+      <file name="/wrd/prj/scipen/app/assets/javascripts/common.coffee" timestamp="1491750975731">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
+        <mark key="^" line="39" column="25" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/var.sass" timestamp="1491482646433">
         <mark key="[" line="3" column="19" />
@@ -424,44 +424,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogaW5oZXJpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY20uc2V0Q3Vyc29yKGN1cnNvcikK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iICdBcnRpY2xlcycsIDpwcm9qZWN0c19wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnNvciA9IGNtLmdldEN1cnNvcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogaW5oZXJpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY20uc2V0Q3Vyc29yKGN1cnNvcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWFsaWduOiBpbmhlcml0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogbm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnNvciA9IGNtLmdldEN1cnNvcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNoICs9IGNtLmdldFNlbGVjdGlvbigpLmxlbmd0aCszCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zdHlsZTogbm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gUGxhY2UgYWxsIHRoZSBzdHlsZXMgcmVsYXRlZCB0byB0aGUgQXJ0aWNsZXMgY29udHJvbGxlciBoZXJlLgovLyBUaGV5IHdpbGwgYXV0b21hdGljYWxseSBiZSBpbmNsdWRlZCBpbiBhcHBsaWNhdGlvbi5jc3MuCi8vIFlvdSBjYW4gdXNlIFNhc3MgaGVyZTogaHR0cDovL3Nhc3MtbGFuZy5jb20vCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
-      <register name="8" type="4">
-        <text>.column
-    padding-top: 0 !important</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNoICs9IGNtLmdldFNlbGVjdGlvbigpLmxlbmd0aCsxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCBrYXRleC8K</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
