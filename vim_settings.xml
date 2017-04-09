@@ -73,7 +73,7 @@
         <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/semantic-ui-sass-308d74a16d9a/app/assets/stylesheets/semantic-ui/collections/_form.scss" timestamp="1491482191469" />
-      <file name="/wrd/prj/scipen/app/models/space.rb" timestamp="1491740951895">
+      <file name="/wrd/prj/scipen/app/models/space.rb" timestamp="1491748165204">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="43" />
         <mark key="^" line="4" column="43" />
@@ -91,11 +91,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/articles/show.html.slim" timestamp="1491739178970">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="/wrd/prj/scipen/app/views/articles/show.html.slim" timestamp="1491745683643">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="/wrd/prj/scipen/app/assets/javascripts/application.js" timestamp="1491658267549">
         <mark key="[" line="13" column="0" />
@@ -257,11 +257,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="/wrd/prj/scipen/app/assets/javascripts/common.coffee" timestamp="1491710490934">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="44" />
+      <file name="/wrd/prj/scipen/app/assets/javascripts/common.coffee" timestamp="1491748217432">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/var.sass" timestamp="1491482646433">
         <mark key="[" line="3" column="19" />
@@ -360,11 +360,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="/wrd/prj/scipen/app/assets/stylesheets/articles.sass" timestamp="1491739101981">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
+      <file name="/wrd/prj/scipen/app/assets/stylesheets/articles.sass" timestamp="1491747442705">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="30" column="7" />
       </file>
       <file name="/wrd/prj/scipen/app/controllers/spaces_controller.rb" timestamp="1491639764252">
         <mark key="[" line="27" column="0" />
@@ -423,11 +423,11 @@
       <jump line="0" column="0" filename="/wrd/prj/scipen/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogaW5oZXJpdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
@@ -436,32 +436,32 @@
         <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iICdBcnRpY2xlcycsIDpwcm9qZWN0c19wYXRoCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogaW5oZXJpdAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0LWFsaWduOiBpbmhlcml0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogbm9uZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZm9udC1zdHlsZTogbm9uZQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Ly8gUGxhY2UgYWxsIHRoZSBzdHlsZXMgcmVsYXRlZCB0byB0aGUgQXJ0aWNsZXMgY29udHJvbGxlciBoZXJlLgovLyBUaGV5IHdpbGwgYXV0b21hdGljYWxseSBiZSBpbmNsdWRlZCBpbiBhcHBsaWNhdGlvbi5jc3MuCi8vIFlvdSBjYW4gdXNlIFNhc3MgaGVyZTogaHR0cDovL3Nhc3MtbGFuZy5jb20vCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>.column
     padding-top: 0 !important</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QGltcG9ydCBrYXRleC8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ID0gbGlua190byAnRGVsZXRlJywgQGFydGljbGUuc2hvd19wYXRoLCBtZXRob2Q6ICdkZWxldGUnLCAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LSBjb250ZW50X2ZvciA6dG9vbGRiYXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M6ICdidG4gYnRuLXByaW1hcnkgYnRuLXNtJwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZCgiZWRpdF8je2FydGljbGUuc3BhY2UuY2xhc3MubmFtZS5kb3duY2FzZX1fYXJ0aWNsZV9wYXRoIiwgYXJ0aWNsZS5zcGFjZV9pZCwgYXJ0aWNsZS5pZCksCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmtfdG8gJ0VkaXQnLAo=</text>
+        <text encoding="base64">QGltcG9ydCBrYXRleC8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
