@@ -119,6 +119,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="/wrd/prj/scipen/db/migrate/20170409032430_add_source_to_article.rb" timestamp="1491708290185">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+      </file>
       <file name="/wrd/prj/scipen/db/migrate/20170403024714_create_spaces.rb" timestamp="1491630747368">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -161,11 +167,11 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="/wrd/prj/scipen/app/models/article.rb" timestamp="1491629402422">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
+      <file name="/wrd/prj/scipen/app/models/article.rb" timestamp="1491709109183">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
       </file>
       <file name="/wrd/prj/scipen/Gemfile" timestamp="1491628462240">
         <mark key="[" line="56" column="0" />
@@ -270,6 +276,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1491708259289">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/lib/breadcrumbs_on_rails/action_controller.rb" timestamp="1491475426040" />
       <file name="/wrd/prj/scipen/db/migrate/20170404013442_create_projects.rb" timestamp="1491572596053">
         <mark key="[" line="3" column="36" />
@@ -307,12 +316,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/wrd/prj/scipen/app/controllers/articles_controller.rb" timestamp="1491661190440">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="80" column="37" />
-        <mark key="]" line="80" column="40" />
-        <mark key="." line="80" column="40" />
-        <mark key="^" line="80" column="40" />
+      <file name="/wrd/prj/scipen/app/controllers/articles_controller.rb" timestamp="1491708541726">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="90" column="41" />
+        <mark key="]" line="90" column="17" />
+        <mark key="." line="90" column="17" />
+        <mark key="^" line="90" column="17" />
       </file>
       <file name="/wrd/prj/scipen/app/assets/stylesheets/common.sass" timestamp="1491654474776">
         <mark key="[" line="5" column="0" />
@@ -336,11 +345,11 @@
         <mark key="^" line="6" column="43" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/articles/_form.html.slim" timestamp="1491658038830">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-        <mark key="^" line="3" column="17" />
+      <file name="/wrd/prj/scipen/app/views/articles/_form.html.slim" timestamp="1491708345573">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -373,13 +382,16 @@
       <jump line="135" column="27" filename="/wrd/prj/scipen/app/assets/stylesheets/codemirror.sass" />
       <jump line="20" column="46" filename="/wrd/prj/scipen/app/assets/stylesheets/codemirror.sass" />
       <jump line="6" column="10778" filename="/wrd/prj/scipen/app/assets/stylesheets/a.css" />
+      <jump line="38" column="4" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
+      <jump line="88" column="0" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
+      <jump line="24" column="0" filename="/wrd/prj/scipen/app/controllers/articles_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>12px</text>
+        <text>slef</text>
       </register>
       <register name="-" type="4">
-        <text>12px</text>
+        <text>slef</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
@@ -388,31 +400,31 @@
         <text encoding="base64">QGltcG9ydCBzdWJfbmF2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LnNpZGViYXItbmF2Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUgdHVyYm9saW5rcwo=</text>
+        <text encoding="base64">ICBkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgM3B4IDAgMHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHggMDsK</text>
+        <text encoding="base64">ICBiZWZvcmVfc2F2ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHg7Cg==</text>
+        <text encoding="base64">LnNpZGViYXItbmF2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoZW1lOiAnc2NpcGVuJwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjMTcwCg==</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUgdHVyYm9saW5rcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuY20tdGFnCg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgM3B4IDAgMHB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
