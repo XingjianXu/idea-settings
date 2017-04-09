@@ -59,10 +59,11 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/articles/edit.html.slim" timestamp="1491652507852">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/wrd/prj/scipen/app/views/articles/edit.html.slim" timestamp="1491736005665">
+        <mark key="[" line="1" column="82" />
+        <mark key="]" line="1" column="88" />
+        <mark key="." line="1" column="88" />
+        <mark key="^" line="1" column="88" />
       </file>
       <file name="/wrd/prj/scipen/app/controllers/projects_controller.rb" timestamp="1491647888074">
         <mark key="'" line="1" column="65" />
@@ -185,18 +186,18 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/projects/index.html.slim" timestamp="1491661859334">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+      <file name="/wrd/prj/scipen/app/views/projects/index.html.slim" timestamp="1491735430766">
+        <mark key="[" line="12" column="69" />
+        <mark key="]" line="12" column="75" />
+        <mark key="." line="12" column="75" />
+        <mark key="^" line="12" column="75" />
       </file>
-      <file name="/wrd/prj/scipen/app/models/article.rb" timestamp="1491715088031">
+      <file name="/wrd/prj/scipen/app/models/article.rb" timestamp="1491735667858">
         <mark key="'" line="10" column="30" />
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="5" column="29" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="16" column="41" />
       </file>
       <file name="/wrd/prj/scipen/Gemfile" timestamp="1491715930346">
         <mark key="'" line="0" column="0" />
@@ -343,12 +344,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/wrd/prj/scipen/app/controllers/articles_controller.rb" timestamp="1491715555732">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="48" />
-        <mark key="." line="68" column="48" />
-        <mark key="^" line="68" column="48" />
+      <file name="/wrd/prj/scipen/app/controllers/articles_controller.rb" timestamp="1491736405516">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="." line="60" column="45" />
+        <mark key="^" line="60" column="45" />
       </file>
       <file name="/wrd/prj/scipen/app/assets/stylesheets/common.sass" timestamp="1491654474776">
         <mark key="[" line="5" column="0" />
@@ -372,11 +373,11 @@
         <mark key="." line="1" column="78" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="/wrd/prj/scipen/app/views/articles/_form.html.slim" timestamp="1491708345573">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
+      <file name="/wrd/prj/scipen/app/views/articles/_form.html.slim" timestamp="1491736105723">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -419,43 +420,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXJ0aWNsZV9lZGl0X2xpbmsg</text>
+        <text>projects_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJ0aWNsZV9lZGl0X2xpbmsg</text>
+        <text>projects_path</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TWV0cmljcy9MaW5lTGVuZ3RoOgo=</text>
+        <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iICdBcnRpY2xlcycsIDpwcm9qZWN0c19wYXRoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ID0gbGlua190byAnRGVsZXRlJywgQGFydGljbGUuc2hvd19wYXRoLCBtZXRob2Q6ICdkZWxldGUnLCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M6ICdidG4gYnRuLXByaW1hcnkgYnRuLXNtJwo=</text>
+        <text encoding="base64">LSBjb250ZW50X2ZvciA6dG9vbGRiYXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZCgiZWRpdF8je2FydGljbGUuc3BhY2UuY2xhc3MubmFtZS5kb3duY2FzZX1fYXJ0aWNsZV9wYXRoIiwgYXJ0aWNsZS5zcGFjZV9pZCwgYXJ0aWNsZS5pZCksCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmtfdG8gJ0VkaXQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M6ICdidG4gYnRuLXByaW1hcnkgYnRuLXNtJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgYXJ0aWNsZV9lZGl0X2xpbmsoYXJ0aWNsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZCgiZWRpdF8je2FydGljbGUuc3BhY2UuY2xhc3MubmFtZS5kb3duY2FzZX1fYXJ0aWNsZV9wYXRoIiwgYXJ0aWNsZS5zcGFjZV9pZCwgYXJ0aWNsZS5pZCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA9IGxpbmtfdG8gJ0VkaXQnLCBlZGl0X3Byb2plY3RfcGF0aChAcHJvamVjdCksIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5IGJ0bi1zbScK</text>
+        <text encoding="base64">ICAgIGxpbmtfdG8gJ0VkaXQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cm9uZyBDb250ZW50Ogo=</text>
+        <text encoding="base64">ICBkZWYgYXJ0aWNsZV9lZGl0X2xpbmsoYXJ0aWNsZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICA9IGxpbmtfdG8gJ0VkaXQnLCBlZGl0X3Byb2plY3RfcGF0aChAcHJvamVjdCksIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5IGJ0bi1zbScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID0gQGFydGljbGUuc2x1Zwo=</text>
+        <text encoding="base64">ICAgIHN0cm9uZyBDb250ZW50Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
