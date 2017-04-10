@@ -341,12 +341,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/wrd/prj/scipen/app/controllers/articles_controller.rb" timestamp="1491736405516">
+      <file name="/wrd/prj/scipen/app/controllers/articles_controller.rb" timestamp="1491790685430">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="60" column="45" />
-        <mark key="]" line="60" column="45" />
-        <mark key="." line="60" column="45" />
-        <mark key="^" line="60" column="45" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="6" />
+        <mark key="^" line="83" column="7" />
+        <mark key="." line="85" column="6" />
       </file>
       <file name="/wrd/prj/scipen/app/assets/stylesheets/common.sass" timestamp="1491739074893">
         <mark key="[" line="8" column="2" />
@@ -424,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>three</text>
+        <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iICdBcnRpY2xlcycsIHByb2plY3RfcGF0aChAcHJvamVjdC5pZCkKICAgIGFkZF9icmVhZGNydW1iIEBhcnRpY2xlLnRpdGxlLCBAYXJ0aWNsZS5zaG93X3BhdGg=</text>
       </register>
       <register name="-" type="4">
         <text>three</text>
@@ -435,32 +435,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAudGhyZWUud2lkZS5jb2x1bW4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iICdBcnRpY2xlcycsIHByb2plY3RfcGF0aChAcHJvamVjdC5pZCkKICAgIGFkZF9icmVhZGNydW1iIEBhcnRpY2xlLnRpdGxlLCBAYXJ0aWNsZS5zaG93X3BhdGg=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjCg==</text>
+        <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iIEBhcnRpY2xlLnRpdGxlLCBAYXJ0aWNsZS5zaG93X3BhdGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY20uc2V0Q3Vyc29yKGN1cnNvcikK</text>
+        <text encoding="base64">ICAgIGFkZF9icmVhZGNydW1iICdBcnRpY2xlcycsIHByb2plY3RfcGF0aChAcHJvamVjdC5pZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnNvciA9IGNtLmdldEN1cnNvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY20uc2V0Q3Vyc29yKGN1cnNvcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNoICs9IGNtLmdldFNlbGVjdGlvbigpLmxlbmd0aCszCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnNvciA9IGNtLmdldEN1cnNvcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
