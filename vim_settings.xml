@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/wrd/prj/mmdb/app/views/ontology_terms/show.html.slim" timestamp="1491963331775">
+      <file name="/wrd/prj/mmdb/app/views/ontology_terms/show.html.slim" timestamp="1491974438046">
         <mark key="[" line="36" column="31" />
         <mark key="]" line="36" column="34" />
         <mark key="^" line="36" column="34" />
@@ -86,7 +86,6 @@
       <file name="/Dummy.txt" timestamp="1491442979505">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wrd/prj/mmdb/app/models/ontology_term.rb" timestamp="1491962243475" />
       <file name="/wrd/prj/scipen/db/migrate/20170404013442_create_projects.rb" timestamp="1491269786258">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="41" />
