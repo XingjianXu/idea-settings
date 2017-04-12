@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/wrd/prj/mmdb/app/views/ontology_terms/show.html.slim" timestamp="1491963331775">
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="34" />
+        <mark key="^" line="36" column="34" />
+        <mark key="." line="36" column="34" />
+      </file>
       <file name="/wrd/prj/scipen/app/models/project.rb" timestamp="1491269870596">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="20" />
@@ -80,7 +86,7 @@
       <file name="/Dummy.txt" timestamp="1491442979505">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wrd/prj/qomo/app/models/category.rb" timestamp="1491443115241" />
+      <file name="/wrd/prj/mmdb/app/models/ontology_term.rb" timestamp="1491962243475" />
       <file name="/wrd/prj/scipen/db/migrate/20170404013442_create_projects.rb" timestamp="1491269786258">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="41" />
@@ -125,11 +131,22 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/wrd/prj/mmdb/app/models/concerns/localized_model.rb" timestamp="1491963028672">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+      </file>
       <file name="/wrd/prj/seqkick/core/src/main/groovy/seqkick/model/Gene.groovy" timestamp="1456403737803">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="26" />
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
+      </file>
+      <file name="/wrd/prj/mmdb/app/decorators/gene_decorator.rb" timestamp="1491963191737">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="16" column="63" />
+        <mark key="^" line="16" column="63" />
       </file>
       <file name="/wrd/prj/scipen/app/views/layouts/application.html.slim" timestamp="1491270140025">
         <mark key="[" line="15" column="31" />
@@ -137,7 +154,6 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="/wrd/prj/qomo/app/assets/stylesheets/common.sass" timestamp="1491442417253" />
     </filemarks>
     <jumps>
       <jump line="2" column="4" filename="/wrd/prj/dotee/src/cli/config.rs" />
@@ -153,16 +169,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHd1c2VycyA=</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHd1c2VycyA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpID0gbGlua190byAnU3BhY2VzJywgc3BhY2VzX3BhdGgsIGNsYXNzOiAibmF2LWl0ZW0gI3thY3RpdmVfY2xhc3Moc3BhY2VzX3BhdGgpfSIK</text>
+        <text encoding="base64">ICBkZWYgaWM0cl9saW5rCiAgICBoLmxpbmtfdG8gb2JqZWN0LmFjY2Vzc2lvbiwgImh0dHA6Ly9pYzRyLm9yZy9nZW5lcy8je29iamVjdC5hY2Nlc3Npb259IiwgdGFyZ2V0OiAnX2JsYW5rJwogIGVuZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICByZXNvdXJjZXMgOnNwYWNlcwo=</text>
