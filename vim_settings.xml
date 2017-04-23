@@ -35,13 +35,6 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="/wrd/prj/dotee/src/main.rs" timestamp="1490800957037">
-        <mark key="'" line="8" column="55" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
-      </file>
       <file name="/wrd/prj/scipen/app/views/articles/edit.html.slim" timestamp="1491736005665">
         <mark key="[" line="1" column="82" />
         <mark key="]" line="1" column="88" />
@@ -109,25 +102,11 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="/wrd/prj/dotee/src/cli/config.rs" timestamp="1490792369325">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="/wrd/prj/scipen/db/migrate/20170409032430_add_source_to_article.rb" timestamp="1491708290185">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="39" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
-      </file>
-      <file name="/wrd/prj/scipen/app/assets/stylesheets/codemirror.sass" timestamp="1491656027582">
-        <mark key="'" line="21" column="46" />
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="191" column="19" />
-        <mark key="." line="3" column="15" />
       </file>
       <file name="/wrd/prj/scipen/config/config.yml" timestamp="1492320349362">
         <mark key="[" line="2" column="140" />
@@ -180,7 +159,7 @@
         <mark key="^" line="12" column="111" />
         <mark key="." line="12" column="93" />
       </file>
-      <file name="/wrd/prj/scipen/Gemfile" timestamp="1492318900250">
+      <file name="/wrd/prj/scipen/Gemfile" timestamp="1492944519699">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="58" column="29" />
@@ -193,24 +172,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/wrd/prj/scipen/app/assets/stylesheets/a.css" timestamp="1491656137102">
-        <mark key="'" line="6" column="10778" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="10778" />
-        <mark key="^" line="6" column="10778" />
-        <mark key="." line="6" column="10778" />
-      </file>
       <file name="/wrd/prj/scipen/app/models/user.rb" timestamp="1492320388089">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="34" />
-      </file>
-      <file name="/wrd/prj/dotee/src/cli.yml" timestamp="1490794208148">
-        <mark key="'" line="15" column="16" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="2" />
-        <mark key="^" line="19" column="2" />
-        <mark key="." line="19" column="2" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/base.sass" timestamp="1491488804370">
         <mark key="[" line="10" column="0" />
@@ -272,13 +237,6 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="/wrd/prj/scipen/vendor/graced/header_nav.sass" timestamp="1491491895278">
-        <mark key="'" line="38" column="47" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
       <file name="/Dummy.txt" timestamp="1492318619550">
         <mark key="[" line="0" column="0" />
       </file>
@@ -287,13 +245,6 @@
         <mark key="]" line="4" column="37" />
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
-      </file>
-      <file name="/wrd/prj/scipen/vendor/graced/button.sass" timestamp="1491485356342">
-        <mark key="'" line="828" column="20" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
       </file>
       <file name="/wrd/prj/scipen/vendor/graced/toolbar.sass" timestamp="1491488570314">
         <mark key="[" line="1" column="0" />
