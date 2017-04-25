@@ -58,6 +58,12 @@
         <mark key="." line="1" column="62" />
         <mark key="^" line="1" column="62" />
       </file>
+      <file name="/wrd/prj/biocode/app/views/snippets/show.html.slim" timestamp="1493085332527">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+      </file>
       <file name="/wrd/prj/scipen/app/models/notebook.rb" timestamp="1491269858059">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="21" />
@@ -91,6 +97,12 @@
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
+      </file>
+      <file name="/wrd/prj/biocode/app/assets/javascripts/snippets.coffee" timestamp="1493085342033">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="/wrd/prj/scipen/.gitignore" timestamp="1491214015284">
         <mark key="[" line="16" column="0" />
@@ -130,6 +142,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/wrd/prj/biocode/app/assets/stylesheets/snippets.sass" timestamp="1493085396609">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="6" />
+        <mark key="." line="35" column="6" />
+        <mark key="^" line="34" column="25" />
+      </file>
       <file name="/wrd/prj/mmdb/app/models/concerns/localized_model.rb" timestamp="1491963028672">
         <mark key="[" line="8" column="59" />
         <mark key="]" line="8" column="59" />
@@ -168,10 +186,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -180,31 +198,31 @@
         <text encoding="base64">ICBkZWYgaWM0cl9saW5rCiAgICBoLmxpbmtfdG8gb2JqZWN0LmFjY2Vzc2lvbiwgImh0dHA6Ly9pYzRyLm9yZy9nZW5lcy8je29iamVjdC5hY2Nlc3Npb259IiwgdGFyZ2V0OiAnX2JsYW5rJwogIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOnNwYWNlcwo=</text>
+        <text encoding="base64">Iz0gcmVxdWlyZSAnc3ludGF4aGlnaGxpZ2h0ZXInCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4ucmF3Z2l0LmNvbS9nb29nbGUvY29kZS1wcmV0dGlmeS9tYXN0ZXIvbG9hZGVyL3J1bl9wcmV0dGlmeS5qcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdC50aW1lc3RhbXBzCg==</text>
+        <text encoding="base64">c2NyaXB0IHNyYz0naHR0cHM6Ly9jZG4ucmF3Z2l0LmNvbS9nb29nbGUvY29kZS1wcmV0dGlmeS9tYXN0ZXIvbG9hZGVyL3J1bl9wcmV0dGlmeS5qcycK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90YWJsZSA6cHJvamVjdHMgZG8gfHR8Cg==</text>
+        <text encoding="base64">aGxqcy5pbml0SGlnaGxpZ2h0aW5nT25Mb2FkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdC50aW1lc3RhbXBzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Iz0gcmVxdWlyZSAnaGlnaGxpZ2h0anMvaGlnaGxpZ2h0LnBhY2snCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly89IHJlcXVpcmUgJ2hpZ2hsaWdodGpzL3N0eWxlcy9kZWZhdWx0Jwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90YWJsZSA6bm90ZWJvb2tzIGRvIHx0fAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
