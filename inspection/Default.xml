@@ -1,6 +1,8 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="CssUnknownTarget" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="InvalidI18nProperty" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="JspDirectiveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="RailsParamDefResolve" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RubyClassMethodNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RubyResolve" enabled="false" level="WARNING" enabled_by_default="false">

@@ -10,5 +10,6 @@
     <ignoreAction name="Ruby/Add @return tag" />
     <ignoreAction name="Ruby/Convert string to symbol" />
     <ignoreAction name="Ruby/Convert ':' to '=&gt;'" />
+    <ignoreAction name="XML/Expand Empty Tag" />
   </component>
 </application>
