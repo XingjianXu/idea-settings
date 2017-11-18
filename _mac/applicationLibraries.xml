@@ -981,6 +981,15 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/settingslogic-2.0.9/lib" />
       </SOURCES>
     </library>
+    <library name="simple_form (v3.5.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/simple_form-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/simple_form-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="slim (v3.0.9, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/slim-3.0.9/bin" />
