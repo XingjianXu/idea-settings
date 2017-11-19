@@ -829,6 +829,17 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="rails-i18n (v5.0.4, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rails-i18n-5.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rails-i18n-5.0.4/rails" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rails-i18n-5.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rails-i18n-5.0.4/rails" />
+      </SOURCES>
+    </library>
     <library name="rails-ujs (v0.1.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rails-ujs-0.1.0/lib" />
