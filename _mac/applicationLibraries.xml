@@ -74,6 +74,15 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/activemodel-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-serializers-xml (v1.0.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/activemodel-serializers-xml-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/activemodel-serializers-xml-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v5.1.4, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/activerecord-5.1.4/lib" />
@@ -153,6 +162,17 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bourbon-4.3.4/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bourbon-4.3.4/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bourbon-4.3.4/features" />
+      </SOURCES>
+    </library>
+    <library name="breadcrumbs_on_rails (v3.0.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/breadcrumbs_on_rails-3.0.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, ruby-2.4.2-p198) [gem]">
@@ -285,6 +305,25 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="devise (v4.3.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/app" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/guides" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/app" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/guides" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/devise-4.3.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.1.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
@@ -296,6 +335,17 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/benchmark" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="draper (v3.0.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/draper-3.0.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/draper-3.0.1/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/draper-3.0.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/draper-3.0.1/.github" />
       </SOURCES>
     </library>
     <library name="erubi (v1.7.0, ruby-2.4.2-p198) [gem]">
@@ -333,6 +383,17 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="font-awesome-sass (v4.7.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/font-awesome-sass-4.7.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/font-awesome-sass-4.7.0/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/font-awesome-sass-4.7.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/font-awesome-sass-4.7.0/assets" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.4.1, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/globalid-0.4.1/lib" />
@@ -353,6 +414,15 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/gon-6.2.0/js" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/gon-6.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/gon-6.2.0/coffee" />
+      </SOURCES>
+    </library>
+    <library name="gravatar_image_tag (v1.2.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/gravatar_image_tag-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/gravatar_image_tag-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="high_voltage (v3.0.0, ruby-2.4.2-p198) [gem]">
@@ -512,6 +582,17 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/app" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/config" />
+      </SOURCES>
+    </library>
+    <library name="ledermann-rails-settings (v2.4.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ledermann-rails-settings-2.4.2/ci" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ledermann-rails-settings-2.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ledermann-rails-settings-2.4.2/ci" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ledermann-rails-settings-2.4.2/lib" />
       </SOURCES>
     </library>
     <library name="listen (v3.1.5, ruby-2.4.2-p198) [gem]">
@@ -702,6 +783,26 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/open4-1.3.4/white_box" />
       </SOURCES>
     </library>
+    <library name="orm_adapter (v0.5.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/orm_adapter-0.5.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/orm_adapter-0.5.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="pandoc-ruby (v2.0.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pandoc-ruby-2.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pandoc-ruby-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.21.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
@@ -778,6 +879,15 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.10.0/tools" />
       </SOURCES>
     </library>
+    <library name="pundit (v1.1.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pundit-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pundit-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.3, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rack-2.0.3/bin" />
@@ -793,6 +903,15 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rack-2.0.3/example" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rack-proxy-0.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rack-proxy-0.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.7.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rack-test-0.7.0/lib" />
@@ -800,6 +919,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rack-test-0.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.7.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rack-test-0.7.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rack-test-0.7.1/lib" />
       </SOURCES>
     </library>
     <library name="rails (v5.1.4, ruby-2.4.2-p198) [gem]">
@@ -921,6 +1049,15 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/request_store-1.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="responders (v2.4.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/responders-2.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/responders-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_dep (v1.5.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ruby_dep-1.5.0/lib" />
@@ -981,6 +1118,21 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="semantic-ui-sass (v2.2.12.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/semantic-ui-sass-2.2.12.1/app" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/semantic-ui-sass-2.2.12.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/semantic-ui-sass-2.2.12.1/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/semantic-ui-sass-2.2.12.1/templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/semantic-ui-sass-2.2.12.1/app" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/semantic-ui-sass-2.2.12.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/semantic-ui-sass-2.2.12.1/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/semantic-ui-sass-2.2.12.1/templates" />
       </SOURCES>
     </library>
     <library name="settingslogic (v2.0.9, ruby-2.4.2-p198) [gem]">
@@ -1169,6 +1321,15 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/uniform_notifier-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="warden (v1.2.7, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/warden-1.2.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/warden-1.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="web-console (v3.5.1, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/web-console-3.5.1/lib" />
@@ -1176,6 +1337,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/web-console-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.0.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/package" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/package" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.6.5, ruby-2.4.2-p198) [gem]">
