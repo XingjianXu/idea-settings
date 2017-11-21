@@ -740,6 +740,37 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="monetize (v1.4.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/monetize-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/monetize-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="money (v6.10.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-6.10.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-6.10.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-6.10.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-6.10.0/config" />
+      </SOURCES>
+    </library>
+    <library name="money-rails (v1.7.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-rails-1.7.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-rails-1.7.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-rails-1.7.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-rails-1.7.0/config" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.12.2, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/multi_json-1.12.2/lib" />
